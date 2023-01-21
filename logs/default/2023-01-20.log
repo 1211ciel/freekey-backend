@@ -1,0 +1,1498 @@
+2023-01-20 00:04:16.275 [INFO] {205c12c254c13b1769bd073981a4034e} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2326: admin连接个数0 []
+2023-01-20 00:04:16.764 [INFO] {402336df54c13b176ebd07397c791a53} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2326: admin连接个数1 [42]
+2023-01-20 00:05:02.627 [INFO] {609ed38c5fc13b176fbd07396cf1a490} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2326: admin连接个数0 []
+2023-01-20 00:05:03.117 [INFO] {782409aa5fc13b1772bd0739110cba8f} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2326: admin连接个数1 [42]
+2023-01-20 00:06:09.634 [INFO] {e0eacb266fc13b1775bd0739a7060f9c} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2326: admin连接个数0 []
+2023-01-20 00:06:10.134 [INFO] {58c597446fc13b1778bd0739c3e6eed1} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2326: admin连接个数1 [42]
+2023-01-20 00:06:20.569 [INFO] {986894b271c13b177bbd0739e065c0b8} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2326: admin连接个数0 []
+2023-01-20 00:06:21.059 [INFO] {7845c4cf71c13b177ebd0739bc1a7d92} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2326: admin连接个数1 [42]
+2023-01-20 00:06:56.871 [INFO] {e06c4e267ac13b1781bd07398973a867} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2326: admin连接个数0 []
+2023-01-20 00:06:57.352 [INFO] {a096fc427ac13b1784bd073996f16d06} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2326: admin连接个数1 [42]
+2023-01-20 00:07:39.487 [INFO] {6843771284c13b1787bd0739c17d24eb} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2326: admin连接个数0 []
+2023-01-20 00:07:40.006 [INFO] {285e5a3184c13b178bbd073999f352c8} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2326: admin连接个数1 [42]
+2023-01-20 00:08:13.252 [INFO] {f0d5ffee8bc13b178dbd0739b51112af} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2326: admin连接个数0 []
+2023-01-20 00:08:13.735 [INFO] {0092cb0b8cc13b1790bd0739ec3c2ac2} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2326: admin连接个数1 [42]
+2023-01-20 00:09:08.806 [INFO] {20cb47de98c13b1793bd07399af960c5} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2326: admin连接个数0 []
+2023-01-20 00:09:09.297 [INFO] {10da8afb98c13b1796bd0739cd5b8ced} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2326: admin连接个数1 [42]
+2023-01-20 00:09:44.033 [INFO] {d000f911a1c13b1799bd0739ba090907} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2326: admin连接个数0 []
+2023-01-20 00:09:44.512 [INFO] {e0667f2ea1c13b179ebd073974bf0244} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2326: admin连接个数1 [42]
+2023-01-20 00:10:20.261 [INFO] {70085281a9c13b179fbd0739fbdf8e0b} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2326: admin连接个数0 []
+2023-01-20 00:10:20.748 [INFO] {a8615d9ea9c13b17a4bd0739cb477467} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2326: admin连接个数1 [42]
+2023-01-20 00:10:56.231 [INFO] {b88047e1b1c13b17a5bd0739db1dacaa} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2326: admin连接个数0 []
+2023-01-20 00:10:56.714 [INFO] {186518feb1c13b17a8bd073932a7656f} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2326: admin连接个数1 [42]
+2023-01-20 00:11:14.888 [INFO] {d04f5e39b6c13b17abbd0739d428c6c6} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2326: admin连接个数0 []
+2023-01-20 00:11:15.360 [INFO] {007a7e55b6c13b17aebd0739bff8416d} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2326: admin连接个数1 [42]
+2023-01-20 00:11:33.221 [INFO] {60a4127ebac13b17b1bd073901d00480} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2326: admin连接个数0 []
+2023-01-20 00:11:33.695 [INFO] {88574d9abac13b17b4bd0739393c6082} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2326: admin连接个数1 [42]
+2023-01-20 00:11:38.565 [INFO] {b8bd98bcbbc13b17b7bd073923b808a6} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2326: admin连接个数0 []
+2023-01-20 00:11:39.034 [INFO] {78ae94d8bbc13b17babd07399805ca9a} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2326: admin连接个数1 [42]
+2023-01-20 00:12:18.208 [INFO] {784f85f7c4c13b17bdbd0739b4e03697} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2326: admin连接个数0 []
+2023-01-20 00:12:18.691 [INFO] {009f4a14c5c13b17c0bd0739f95472db} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2326: admin连接个数1 [42]
+2023-01-20 00:13:20.145 [INFO] {40ef4363d3c13b17cbbd0739ab3e151a} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2326: admin连接个数0 []
+2023-01-20 00:13:20.626 [INFO] {6098ef7fd3c13b17cebd073946750b3b} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2326: admin连接个数1 [42]
+2023-01-20 00:14:40.556 [INFO] {e065161ce6c13b17d5bd07395c1579da} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2326: admin连接个数0 []
+2023-01-20 00:14:41.028 [INFO] {28504038e6c13b17d8bd0739f09e0248} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2326: admin连接个数1 [42]
+2023-01-20 00:15:22.178 [INFO] {f08df6ccefc13b17e5bd0739805161c1} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2326: admin连接个数0 []
+2023-01-20 00:15:22.673 [INFO] {807381eaefc13b17e8bd0739b9a4bdfb} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2326: admin连接个数1 [42]
+2023-01-20 00:17:50.146 [INFO] {88c58b4012c23b17f3bd07394218238a} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2326: admin连接个数0 []
+2023-01-20 00:17:50.638 [INFO] {c85bd95d12c23b17f6bd07396f371bcb} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2326: admin连接个数1 [42]
+2023-01-20 00:20:11.689 [INFO] {10e4243533c23b1721be0739dacf9a16} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2326: admin连接个数0 []
+2023-01-20 00:20:12.174 [INFO] {2820135233c23b1724be073993923ff6} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2326: admin连接个数1 [42]
+2023-01-20 00:20:24.088 [INFO] {709b311836c23b172dbe0739bbb8354b} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2326: admin连接个数0 []
+2023-01-20 00:20:24.557 [INFO] {18fb303436c23b1730be0739ec2e850d} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2326: admin连接个数1 [42]
+2023-01-20 00:20:54.906 [INFO] {103a19453dc23b1737be0739558e27ff} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2326: admin连接个数0 []
+2023-01-20 00:20:55.383 [INFO] {f87d8a613dc23b173abe07398fbbe700} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2326: admin连接个数1 [42]
+2023-01-20 00:23:22.263 [INFO] {209145945fc23b176bbe07396cf494f2} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2326: admin连接个数0 []
+2023-01-20 00:23:22.763 [INFO] {78ed18b25fc23b176ebe0739de9e1926} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2326: admin连接个数1 [42]
+2023-01-20 00:27:31.668 [INFO] {2819f6a599c23b171bbf07397ab84df8} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2326: admin连接个数0 []
+2023-01-20 00:27:31.973 [INFO] {b8c425b899c23b171dbf07395e70a512} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2326: admin连接个数1 [42]
+2023-01-20 07:41:09.746 [INFO] {00b5427443da3b17822c5e39b7729bae} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2326: admin连接个数1 [42]
+2023-01-20 07:41:21.279 [INFO] {e80cb52346da3b17892c5e398c132ad0} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2326: admin连接个数0 []
+2023-01-20 07:54:37.876 [INFO] {58498f9cffda3b171a2d5e39cb5c7233} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2326: admin连接个数1 [42]
+2023-01-20 07:54:38.558 [INFO] {304e39c5ffda3b171b2d5e3977fa123e} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2326: admin连接个数0 []
+2023-01-20 07:54:53.107 [INFO] {9033562803db3b171f2d5e3956b6db43} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2326: admin连接个数1 [42]
+2023-01-20 07:55:01.850 [INFO] {480d873105db3b17332d5e397743a59d} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2326: admin连接个数0 []
+2023-01-20 07:55:04.308 [INFO] {b8d60fc405db3b17352d5e39be526da9} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2326: admin连接个数1 [42]
+2023-01-20 07:55:05.947 [INFO] {50f9bb2506db3b17442d5e39d7b90694} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2326: admin连接个数0 []
+2023-01-20 07:56:19.425 [INFO] {503e544117db3b17472d5e3903cf48e0} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2326: admin连接个数1 [42]
+2023-01-20 07:56:26.507 [INFO] {406d79e718db3b17572d5e392276cb0e} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2326: admin连接个数0 []
+2023-01-20 07:56:26.993 [INFO] {30af750419db3b175b2d5e39c805707b} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2326: admin连接个数1 [42]
+2023-01-20 07:56:35.547 [INFO] {d0db49021bdb3b176b2d5e3990e1dae9} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2326: admin连接个数0 []
+2023-01-20 08:00:48.556 [INFO] {d047c9ea55db3b176e2d5e3938cb2f82} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2326: admin连接个数1 [42]
+2023-01-20 08:00:50.418 [INFO] {3870ce5956db3b177c2d5e39fa73d6eb} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2326: admin连接个数0 []
+2023-01-20 08:00:50.894 [INFO] {38db237656db3b177f2d5e3959f59b16} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2326: admin连接个数1 [42]
+2023-01-20 08:00:53.993 [INFO] {488fdd2e57db3b178e2d5e3931a04fd5} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2326: admin连接个数0 []
+2023-01-20 08:00:54.460 [INFO] {0059bd4a57db3b17912d5e3909405b09} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2326: admin连接个数1 [42]
+2023-01-20 08:01:10.949 [INFO] {882089215bdb3b17942d5e39ca05477d} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2326: admin连接个数0 []
+2023-01-20 08:01:58.401 [INFO] {4875e92d66db3b17f12d5e39c6c9ca72} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2326: admin连接个数1 [42]
+2023-01-20 08:03:07.366 [INFO] {c00a903c76db3b17f22d5e3978d558db} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2326: admin连接个数0 []
+2023-01-20 08:03:07.837 [INFO] {40cfa25876db3b17f52d5e39bf7b6889} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2326: admin连接个数1 [42]
+2023-01-20 08:04:00.500 [INFO] {084c969b82db3b17042e5e390cfc627f} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2326: admin连接个数0 []
+2023-01-20 08:04:01.114 [INFO] {f87228c082db3b17082e5e3973e5606c} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2326: admin连接个数1 [42]
+2023-01-20 08:04:04.599 [INFO] {3085e08f83db3b170e2e5e39eb8fcba5} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2326: admin连接个数1 [42]
+2023-01-20 08:04:04.599 [ERRO] {1807cabf82db3b17062e5e39e34c325a} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2240: close tcp [::1]:2033->[::1]:55465: use of closed network connection
+Stack:
+1.  freekey-backend/internal/logic.lWs.GetAdminWs
+    /Users/ciel/learn/freekey-backend/internal/logic/system.go:2240
+2.  freekey-backend/internal/service.sWs.GetAdminWs
+    /Users/ciel/learn/freekey-backend/internal/service/system.go:497
+3.  freekey-backend/internal/controller.cAdmin.GetWs
+    /Users/ciel/learn/freekey-backend/internal/controller/system.go:362
+4.  github.com/gogf/gf/v2/net/ghttp.(*middleware).callHandlerFunc.func1
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:131
+5.  github.com/gogf/gf/v2/net/ghttp.niceCallFunc
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_func.go:55
+6.  github.com/gogf/gf/v2/net/ghttp.(*middleware).callHandlerFunc
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:129
+7.  github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1.4
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:90
+8.  github.com/gogf/gf/v2/net/ghttp.niceCallFunc
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_func.go:55
+9.  github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:89
+10. github.com/gogf/gf/v2/util/gutil.TryCatch
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/util/gutil/gutil.go:56
+11. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:49
+12. freekey-backend/internal/logic.lAdmin.MiddlewareAuth
+    /Users/ciel/learn/freekey-backend/internal/logic/system.go:1270
+13. freekey-backend/internal/service.sAdmin.MiddlewareAuth
+    /Users/ciel/learn/freekey-backend/internal/service/system.go:345
+14. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1.1
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:55
+15. github.com/gogf/gf/v2/net/ghttp.niceCallFunc
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_func.go:55
+16. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:54
+17. github.com/gogf/gf/v2/util/gutil.TryCatch
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/util/gutil/gutil.go:56
+18. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:49
+19. freekey-backend/internal/logic.lAdmin.MiddlewareAction
+    /Users/ciel/learn/freekey-backend/internal/logic/system.go:1299
+20. freekey-backend/internal/service.sAdmin.MiddlewareActionLog
+    /Users/ciel/learn/freekey-backend/internal/service/system.go:351
+21. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1.1
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:55
+22. github.com/gogf/gf/v2/net/ghttp.niceCallFunc
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_func.go:55
+23. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:54
+24. github.com/gogf/gf/v2/util/gutil.TryCatch
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/util/gutil/gutil.go:56
+25. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:49
+26. freekey-backend/internal/logic.lSystem.MiddlewareCORS
+    /Users/ciel/learn/freekey-backend/internal/logic/system.go:928
+27. freekey-backend/internal/service.sSystem.MiddlewareCORS
+    /Users/ciel/learn/freekey-backend/internal/service/system.go:149
+28. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1.1
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:55
+29. github.com/gogf/gf/v2/net/ghttp.niceCallFunc
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_func.go:55
+30. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:54
+31. github.com/gogf/gf/v2/util/gutil.TryCatch
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/util/gutil/gutil.go:56
+32. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:49
+33. github.com/gogf/gf/v2/net/ghttp.internalMiddlewareServerTracing
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_middleware_tracing.go:78
+34. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1.5
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:96
+35. github.com/gogf/gf/v2/net/ghttp.niceCallFunc
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_func.go:55
+36. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:95
+37. github.com/gogf/gf/v2/util/gutil.TryCatch
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/util/gutil/gutil.go:56
+38. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:49
+39. github.com/gogf/gf/v2/net/ghttp.(*Server).ServeHTTP
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_server_handler.go:132
+
+2023-01-20 08:04:04.599 [INFO] {886ae98f83db3b170f2e5e3906daefb8} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2326: admin连接个数0 []
+2023-01-20 08:04:16.851 [INFO] {c862296a86db3b17272e5e3929023b13} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2326: admin连接个数0 []
+2023-01-20 08:04:17.317 [INFO] {a06ff68586db3b172a2e5e3918bacb16} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2326: admin连接个数1 [42]
+2023-01-20 08:04:20.985 [INFO] {90b58f6087db3b172f2e5e39e1d7c580} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2326: admin连接个数0 []
+2023-01-20 08:04:21.450 [INFO] {b86e4c7c87db3b17322e5e390614eb1d} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2326: admin连接个数1 [42]
+2023-01-20 08:04:56.594 [INFO] {803004ab8fdb3b17372e5e392ff922f0} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2326: admin连接个数0 []
+2023-01-20 08:05:14.608 [INFO] {78b4c5dc93db3b17472e5e39fc846627} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2326: admin连接个数1 [42]
+2023-01-20 08:18:31.998 [INFO] {a086e6844ddc3b175f2e5e3905bd7048} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2326: admin连接个数0 []
+2023-01-20 08:18:32.480 [INFO] {d0269aa14ddc3b17622e5e397fc517d7} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2326: admin连接个数1 [42]
+2023-01-20 08:20:59.345 [INFO] {28ef7ad36fdc3b176b2e5e394b7d89c5} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2326: admin连接个数1 [42]
+2023-01-20 08:20:59.345 [ERRO] {602458a14ddc3b17612e5e39ea8c2b6e} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2240: close tcp [::1]:2033->[::1]:59017: use of closed network connection
+Stack:
+1.  freekey-backend/internal/logic.lWs.GetAdminWs
+    /Users/ciel/learn/freekey-backend/internal/logic/system.go:2240
+2.  freekey-backend/internal/service.sWs.GetAdminWs
+    /Users/ciel/learn/freekey-backend/internal/service/system.go:497
+3.  freekey-backend/internal/controller.cAdmin.GetWs
+    /Users/ciel/learn/freekey-backend/internal/controller/system.go:362
+4.  github.com/gogf/gf/v2/net/ghttp.(*middleware).callHandlerFunc.func1
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:131
+5.  github.com/gogf/gf/v2/net/ghttp.niceCallFunc
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_func.go:55
+6.  github.com/gogf/gf/v2/net/ghttp.(*middleware).callHandlerFunc
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:129
+7.  github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1.4
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:90
+8.  github.com/gogf/gf/v2/net/ghttp.niceCallFunc
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_func.go:55
+9.  github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:89
+10. github.com/gogf/gf/v2/util/gutil.TryCatch
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/util/gutil/gutil.go:56
+11. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:49
+12. freekey-backend/internal/logic.lAdmin.MiddlewareAuth
+    /Users/ciel/learn/freekey-backend/internal/logic/system.go:1270
+13. freekey-backend/internal/service.sAdmin.MiddlewareAuth
+    /Users/ciel/learn/freekey-backend/internal/service/system.go:345
+14. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1.1
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:55
+15. github.com/gogf/gf/v2/net/ghttp.niceCallFunc
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_func.go:55
+16. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:54
+17. github.com/gogf/gf/v2/util/gutil.TryCatch
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/util/gutil/gutil.go:56
+18. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:49
+19. freekey-backend/internal/logic.lAdmin.MiddlewareAction
+    /Users/ciel/learn/freekey-backend/internal/logic/system.go:1299
+20. freekey-backend/internal/service.sAdmin.MiddlewareActionLog
+    /Users/ciel/learn/freekey-backend/internal/service/system.go:351
+21. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1.1
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:55
+22. github.com/gogf/gf/v2/net/ghttp.niceCallFunc
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_func.go:55
+23. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:54
+24. github.com/gogf/gf/v2/util/gutil.TryCatch
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/util/gutil/gutil.go:56
+25. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:49
+26. freekey-backend/internal/logic.lSystem.MiddlewareCORS
+    /Users/ciel/learn/freekey-backend/internal/logic/system.go:928
+27. freekey-backend/internal/service.sSystem.MiddlewareCORS
+    /Users/ciel/learn/freekey-backend/internal/service/system.go:149
+28. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1.1
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:55
+29. github.com/gogf/gf/v2/net/ghttp.niceCallFunc
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_func.go:55
+30. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:54
+31. github.com/gogf/gf/v2/util/gutil.TryCatch
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/util/gutil/gutil.go:56
+32. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:49
+33. github.com/gogf/gf/v2/net/ghttp.internalMiddlewareServerTracing
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_middleware_tracing.go:78
+34. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1.5
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:96
+35. github.com/gogf/gf/v2/net/ghttp.niceCallFunc
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_func.go:55
+36. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:95
+37. github.com/gogf/gf/v2/util/gutil.TryCatch
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/util/gutil/gutil.go:56
+38. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:49
+39. github.com/gogf/gf/v2/net/ghttp.(*Server).ServeHTTP
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_server_handler.go:132
+
+2023-01-20 08:20:59.346 [INFO] {984d84d36fdc3b176c2e5e399872af8c} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2326: admin连接个数0 []
+2023-01-20 08:21:37.568 [INFO] {d8f6bfb978dc3b17722e5e39707c1ea6} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2326: admin连接个数0 []
+2023-01-20 08:21:38.054 [INFO] {802dabd678dc3b17762e5e39115f9062} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2326: admin连接个数1 [42]
+2023-01-20 08:21:42.350 [INFO] {f804c9d679dc3b17792e5e392d89e5d8} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2326: admin连接个数0 []
+2023-01-20 08:21:42.812 [INFO] {e03044f279dc3b177c2e5e39dea666f4} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2326: admin连接个数1 [42]
+2023-01-20 08:23:02.018 [INFO] {c09058638cdc3b17721e8111915413d0} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 08:23:44.231 [INFO] {6816703796dc3b177e1e8111e7bad034} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 08:23:44.696 [INFO] {98f21f5396dc3b17811e81116ef96d0d} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 08:25:26.630 [INFO] {d881e60eaedc3b17b01e8111813c162b} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 08:25:27.130 [INFO] {409ab62caedc3b17b31e8111e3141531} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 08:26:29.131 [INFO] {b812439cbcdc3b17d31e811149c19ecf} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数2 [42 1]
+2023-01-20 08:28:51.681 [INFO] {8092e0ccdddc3b175c1f81116fb0b3fd} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [1]
+2023-01-20 08:28:52.179 [INFO] {50dd89eadddc3b175f1f8111e104fbbc} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数2 [1 42]
+2023-01-20 08:29:04.979 [INFO] {a05b86e5e0dc3b17711f811177f1ff94} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 08:29:57.167 [INFO] {8850210ceddc3b17721f81116252e956} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 08:29:57.648 [INFO] {d093ce28eddc3b17771f81110563297d} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 08:30:10.387 [INFO] {005c1d20f0dc3b17781f8111abb70226} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 08:30:10.881 [INFO] {28368a3df0dc3b177b1f8111dbd101fd} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 08:35:20.127 [INFO] {6004133e38dd3b17991f81112e9aca3f} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 08:35:20.610 [INFO] {88aae15a38dd3b179f1f8111da61d894} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 08:36:43.759 [INFO] {f016e9b64bdd3b17aa1f8111aab49854} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 08:36:44.244 [INFO] {08e8d3d34bdd3b17ae1f811137e29203} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 08:37:01.227 [INFO] {60a318c84fdd3b17c41f8111aa4790a7} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 08:37:01.697 [INFO] {f04d21e44fdd3b17c71f8111e707fbe9} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 08:38:00.102 [ERRO] {78e0f7e34fdd3b17c61f8111c8f4539a} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2244: close tcp [::1]:2033->[::1]:63708: use of closed network connection
+Stack:
+1.  freekey-backend/internal/logic.lWs.GetAdminWs
+    /Users/ciel/learn/freekey-backend/internal/logic/system.go:2244
+2.  freekey-backend/internal/service.sWs.GetAdminWs
+    /Users/ciel/learn/freekey-backend/internal/service/system.go:501
+3.  freekey-backend/internal/controller.cAdmin.GetWs
+    /Users/ciel/learn/freekey-backend/internal/controller/system.go:362
+4.  github.com/gogf/gf/v2/net/ghttp.(*middleware).callHandlerFunc.func1
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:131
+5.  github.com/gogf/gf/v2/net/ghttp.niceCallFunc
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_func.go:55
+6.  github.com/gogf/gf/v2/net/ghttp.(*middleware).callHandlerFunc
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:129
+7.  github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1.4
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:90
+8.  github.com/gogf/gf/v2/net/ghttp.niceCallFunc
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_func.go:55
+9.  github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:89
+10. github.com/gogf/gf/v2/util/gutil.TryCatch
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/util/gutil/gutil.go:56
+11. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:49
+12. freekey-backend/internal/logic.lAdmin.MiddlewareAuth
+    /Users/ciel/learn/freekey-backend/internal/logic/system.go:1270
+13. freekey-backend/internal/service.sAdmin.MiddlewareAuth
+    /Users/ciel/learn/freekey-backend/internal/service/system.go:345
+14. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1.1
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:55
+15. github.com/gogf/gf/v2/net/ghttp.niceCallFunc
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_func.go:55
+16. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:54
+17. github.com/gogf/gf/v2/util/gutil.TryCatch
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/util/gutil/gutil.go:56
+18. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:49
+19. freekey-backend/internal/logic.lAdmin.MiddlewareAction
+    /Users/ciel/learn/freekey-backend/internal/logic/system.go:1299
+20. freekey-backend/internal/service.sAdmin.MiddlewareActionLog
+    /Users/ciel/learn/freekey-backend/internal/service/system.go:351
+21. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1.1
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:55
+22. github.com/gogf/gf/v2/net/ghttp.niceCallFunc
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_func.go:55
+23. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:54
+24. github.com/gogf/gf/v2/util/gutil.TryCatch
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/util/gutil/gutil.go:56
+25. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:49
+26. freekey-backend/internal/logic.lSystem.MiddlewareCORS
+    /Users/ciel/learn/freekey-backend/internal/logic/system.go:928
+27. freekey-backend/internal/service.sSystem.MiddlewareCORS
+    /Users/ciel/learn/freekey-backend/internal/service/system.go:149
+28. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1.1
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:55
+29. github.com/gogf/gf/v2/net/ghttp.niceCallFunc
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_func.go:55
+30. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:54
+31. github.com/gogf/gf/v2/util/gutil.TryCatch
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/util/gutil/gutil.go:56
+32. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:49
+33. github.com/gogf/gf/v2/net/ghttp.internalMiddlewareServerTracing
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_middleware_tracing.go:78
+34. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1.5
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:96
+35. github.com/gogf/gf/v2/net/ghttp.niceCallFunc
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_func.go:55
+36. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:95
+37. github.com/gogf/gf/v2/util/gutil.TryCatch
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/util/gutil/gutil.go:56
+38. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:49
+39. github.com/gogf/gf/v2/net/ghttp.(*Server).ServeHTTP
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_server_handler.go:132
+
+2023-01-20 08:38:00.102 [INFO] {20e44f7d5ddd3b17e11f8111427ad511} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 08:38:00.102 [INFO] {604a597d5ddd3b17e21f81118c32ebe1} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 08:41:23.748 [INFO] {102d96e78cdd3b172a2081112e302c7b} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 08:41:24.231 [INFO] {405b5c048ddd3b172d208111af15cfa8} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 08:45:28.565 [ERRO] {b09d40048ddd3b172c20811199d9c63c} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2244: close tcp [::1]:2033->[::1]:64804: use of closed network connection
+Stack:
+1.  freekey-backend/internal/logic.lWs.GetAdminWs
+    /Users/ciel/learn/freekey-backend/internal/logic/system.go:2244
+2.  freekey-backend/internal/service.sWs.GetAdminWs
+    /Users/ciel/learn/freekey-backend/internal/service/system.go:501
+3.  freekey-backend/internal/controller.cAdmin.GetWs
+    /Users/ciel/learn/freekey-backend/internal/controller/system.go:362
+4.  github.com/gogf/gf/v2/net/ghttp.(*middleware).callHandlerFunc.func1
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:131
+5.  github.com/gogf/gf/v2/net/ghttp.niceCallFunc
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_func.go:55
+6.  github.com/gogf/gf/v2/net/ghttp.(*middleware).callHandlerFunc
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:129
+7.  github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1.4
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:90
+8.  github.com/gogf/gf/v2/net/ghttp.niceCallFunc
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_func.go:55
+9.  github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:89
+10. github.com/gogf/gf/v2/util/gutil.TryCatch
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/util/gutil/gutil.go:56
+11. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:49
+12. freekey-backend/internal/logic.lAdmin.MiddlewareAuth
+    /Users/ciel/learn/freekey-backend/internal/logic/system.go:1270
+13. freekey-backend/internal/service.sAdmin.MiddlewareAuth
+    /Users/ciel/learn/freekey-backend/internal/service/system.go:345
+14. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1.1
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:55
+15. github.com/gogf/gf/v2/net/ghttp.niceCallFunc
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_func.go:55
+16. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:54
+17. github.com/gogf/gf/v2/util/gutil.TryCatch
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/util/gutil/gutil.go:56
+18. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:49
+19. freekey-backend/internal/logic.lAdmin.MiddlewareAction
+    /Users/ciel/learn/freekey-backend/internal/logic/system.go:1299
+20. freekey-backend/internal/service.sAdmin.MiddlewareActionLog
+    /Users/ciel/learn/freekey-backend/internal/service/system.go:351
+21. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1.1
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:55
+22. github.com/gogf/gf/v2/net/ghttp.niceCallFunc
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_func.go:55
+23. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:54
+24. github.com/gogf/gf/v2/util/gutil.TryCatch
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/util/gutil/gutil.go:56
+25. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:49
+26. freekey-backend/internal/logic.lSystem.MiddlewareCORS
+    /Users/ciel/learn/freekey-backend/internal/logic/system.go:928
+27. freekey-backend/internal/service.sSystem.MiddlewareCORS
+    /Users/ciel/learn/freekey-backend/internal/service/system.go:149
+28. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1.1
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:55
+29. github.com/gogf/gf/v2/net/ghttp.niceCallFunc
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_func.go:55
+30. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:54
+31. github.com/gogf/gf/v2/util/gutil.TryCatch
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/util/gutil/gutil.go:56
+32. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:49
+33. github.com/gogf/gf/v2/net/ghttp.internalMiddlewareServerTracing
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_middleware_tracing.go:78
+34. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1.5
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:96
+35. github.com/gogf/gf/v2/net/ghttp.niceCallFunc
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_func.go:55
+36. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:95
+37. github.com/gogf/gf/v2/util/gutil.TryCatch
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/util/gutil/gutil.go:56
+38. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:49
+39. github.com/gogf/gf/v2/net/ghttp.(*Server).ServeHTTP
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_server_handler.go:132
+
+2023-01-20 08:45:28.567 [INFO] {78fdf1e7c5dd3b17582081113fe6b272} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 08:45:28.565 [INFO] {40a3cae7c5dd3b175720811142c7d7ad} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 08:45:57.812 [INFO] {505208b7ccdd3b175d2081116fef41bf} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 08:45:58.314 [INFO] {881dfbd4ccdd3b176020811158e9d301} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 08:59:36.413 [INFO] {703b7f4f8bde3b1799208111650155f5} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 08:59:36.907 [INFO] {2094ef6c8bde3b179c20811111b15068} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 09:03:25.771 [INFO] {c88748b6c0de3b17b6208111bf8bea3c} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 09:03:25.771 [ERRO] {c89dd46c8bde3b179b208111ba301172} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2244: close tcp [::1]:2033->[::1]:52884: use of closed network connection
+Stack:
+1.  freekey-backend/internal/logic.lWs.GetAdminWs
+    /Users/ciel/learn/freekey-backend/internal/logic/system.go:2244
+2.  freekey-backend/internal/service.sWs.GetAdminWs
+    /Users/ciel/learn/freekey-backend/internal/service/system.go:501
+3.  freekey-backend/internal/controller.cAdmin.GetWs
+    /Users/ciel/learn/freekey-backend/internal/controller/system.go:362
+4.  github.com/gogf/gf/v2/net/ghttp.(*middleware).callHandlerFunc.func1
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:131
+5.  github.com/gogf/gf/v2/net/ghttp.niceCallFunc
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_func.go:55
+6.  github.com/gogf/gf/v2/net/ghttp.(*middleware).callHandlerFunc
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:129
+7.  github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1.4
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:90
+8.  github.com/gogf/gf/v2/net/ghttp.niceCallFunc
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_func.go:55
+9.  github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:89
+10. github.com/gogf/gf/v2/util/gutil.TryCatch
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/util/gutil/gutil.go:56
+11. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:49
+12. freekey-backend/internal/logic.lAdmin.MiddlewareAuth
+    /Users/ciel/learn/freekey-backend/internal/logic/system.go:1270
+13. freekey-backend/internal/service.sAdmin.MiddlewareAuth
+    /Users/ciel/learn/freekey-backend/internal/service/system.go:345
+14. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1.1
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:55
+15. github.com/gogf/gf/v2/net/ghttp.niceCallFunc
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_func.go:55
+16. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:54
+17. github.com/gogf/gf/v2/util/gutil.TryCatch
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/util/gutil/gutil.go:56
+18. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:49
+19. freekey-backend/internal/logic.lAdmin.MiddlewareAction
+    /Users/ciel/learn/freekey-backend/internal/logic/system.go:1299
+20. freekey-backend/internal/service.sAdmin.MiddlewareActionLog
+    /Users/ciel/learn/freekey-backend/internal/service/system.go:351
+21. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1.1
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:55
+22. github.com/gogf/gf/v2/net/ghttp.niceCallFunc
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_func.go:55
+23. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:54
+24. github.com/gogf/gf/v2/util/gutil.TryCatch
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/util/gutil/gutil.go:56
+25. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:49
+26. freekey-backend/internal/logic.lSystem.MiddlewareCORS
+    /Users/ciel/learn/freekey-backend/internal/logic/system.go:928
+27. freekey-backend/internal/service.sSystem.MiddlewareCORS
+    /Users/ciel/learn/freekey-backend/internal/service/system.go:149
+28. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1.1
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:55
+29. github.com/gogf/gf/v2/net/ghttp.niceCallFunc
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_func.go:55
+30. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:54
+31. github.com/gogf/gf/v2/util/gutil.TryCatch
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/util/gutil/gutil.go:56
+32. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:49
+33. github.com/gogf/gf/v2/net/ghttp.internalMiddlewareServerTracing
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_middleware_tracing.go:78
+34. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1.5
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:96
+35. github.com/gogf/gf/v2/net/ghttp.niceCallFunc
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_func.go:55
+36. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:95
+37. github.com/gogf/gf/v2/util/gutil.TryCatch
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/util/gutil/gutil.go:56
+38. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:49
+39. github.com/gogf/gf/v2/net/ghttp.(*Server).ServeHTTP
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_server_handler.go:132
+
+2023-01-20 09:03:25.774 [INFO] {b8bd77b6c0de3b17b72081111a4d5566} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 09:03:27.017 [INFO] {981d9300c1de3b17b8208111563e0e31} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 09:03:27.485 [INFO] {1897731cc1de3b17bb208111856910ca} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 09:03:36.848 [INFO] {4061884ac3de3b17cb2081110c9e696c} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 09:03:37.317 [INFO] {90a67266c3de3b17ce20811103d79aca} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 09:05:08.971 [INFO] {786776bdd8de3b171a21811118383317} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 09:05:09.441 [INFO] {d05c7bd9d8de3b171d218111fb66ed60} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 09:06:34.055 [INFO] {286ddd8cecde3b17642181110b9089c8} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 09:06:34.546 [INFO] {48031eaaecde3b17672181112c5035e2} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 09:06:42.363 [INFO] {08fa157ceede3b177121811125e7039e} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 09:06:42.823 [INFO] {38038097eede3b1774218111bc27d723} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 09:07:22.731 [INFO] {b09238e2f7de3b177e2181118492246a} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 09:07:23.217 [INFO] {50c42bfff7de3b17812181119e0e7b33} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 09:07:32.893 [INFO] {880dea3ffade3b178b21811166993aab} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 09:07:33.383 [INFO] {a0ab1b5dfade3b178e218111682e0256} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 09:07:54.611 [INFO] {3814614effde3b17a22181114e77d3ee} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 09:07:55.083 [INFO] {c80a876affde3b17a52181113d758022} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 09:11:22.701 [INFO] {785983c12fdf3b17bb2181111bbca7d4} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 09:11:23.179 [INFO] {483506de2fdf3b17be218111dec282ed} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 09:11:29.249 [INFO] {d0f5cf4731df3b17cc218111135f2cff} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 09:11:29.740 [INFO] {98b7196531df3b17cf218111ddee8d05} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 09:11:40.168 [INFO] {f88a9ed233df3b17ea21811100b49e10} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 09:11:40.634 [INFO] {b0ba6dee33df3b17ed21811132665eb9} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 09:11:43.607 [INFO] {d8d8989f34df3b17fc218111b78c9aef} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 09:11:44.081 [INFO] {6868e4bb34df3b17ff218111969a72d2} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 09:12:03.407 [INFO] {88ebcb3b39df3b170a228111c2730027} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 09:12:03.888 [INFO] {f01d745839df3b170d228111a736a198} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 09:24:29.113 [INFO] {70d452dbe6df3b1798228111831c4f80} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 09:24:35.612 [INFO] {b07ab05ee8df3b179b228111b1ef51d2} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 09:24:35.984 [INFO] {2817e074e8df3b17a92281112440481d} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 09:24:36.359 [INFO] {a8e53e8be8df3b17ac22811186db0970} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 09:36:36.989 [INFO] {f006195490e03b179b238111e8caeda1} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 09:36:37.381 [INFO] {5063776b90e03b179e238111acdd9d76} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 09:36:42.949 [INFO] {78c360b791e03b17ae23811150e6bd8f} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 09:36:43.328 [INFO] {f04efbcd91e03b17b12381113d86e247} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 09:37:06.577 [INFO] {1056b03797e03b17c1238111bb9a65bb} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 09:37:06.982 [INFO] {e841d94f97e03b17c423811147bcffda} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 09:37:18.591 [INFO] {60fec5039ae03b17d723811109200508} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 09:37:18.978 [INFO] {e845da1a9ae03b17da2381117446f220} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 09:37:52.122 [INFO] {00315ed2a1e03b17ec23811110715a7a} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 09:37:52.520 [INFO] {d8fd23eaa1e03b17ef238111b6eb6542} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 09:38:26.633 [INFO] {107d64dba9e03b17ff238111acb529ca} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 09:38:27.014 [INFO] {b07d1bf2a9e03b170224811197bd691d} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 09:42:48.578 [INFO] {a0ae8bd8e6e03b179b248111ee13a825} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 09:42:48.827 [INFO] {30ee61e7e6e03b179d248111bc6ca0ff} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 09:43:35.946 [INFO] {c01eeedff1e03b17cb24811134e9b77d} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 09:43:36.190 [INFO] {20bd77eef1e03b17ce24811121718c2b} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 09:44:31.437 [INFO] {a07e6fcbfee03b170625811119e22ef2} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 09:44:31.685 [INFO] {809a2ddafee03b1709258111c39d1d9a} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 09:50:38.638 [INFO] {40334b4a54e13b175d258111ba20d116} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 09:50:38.891 [INFO] {18e75f5954e13b175f25811139896711} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 09:50:52.211 [INFO] {80b2507357e13b1761258111539171a4} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 09:50:52.594 [INFO] {188f298a57e13b1764258111d4dd875e} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 09:53:17.679 [INFO] {e0b8df5179e13b176825811180d7505a} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 09:53:18.069 [INFO] {80ac2a6979e13b176b25811188907373} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 09:53:25.178 [INFO] {b839df107be13b176e258111ec187ee9} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 09:53:25.563 [INFO] {f071d5277be13b17722581113903419d} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 09:53:32.312 [INFO] {98e615ba7ce13b17742581111ff40e0d} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 09:53:32.933 [INFO] {b0fb18df7ce13b17782581115fe93ca2} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 09:53:53.436 [INFO] {104c34a581e13b178125811158eda718} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 09:53:53.823 [INFO] {88d836bc81e13b178425811181c05651} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 09:54:08.229 [INFO] {f892ea1685e13b1787258111b21df53e} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 09:54:08.598 [INFO] {e865e42c85e13b178a2581114d147f62} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 09:54:56.318 [INFO] {e018354990e13b178e258111ccba3890} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 09:54:56.710 [INFO] {6892946090e13b1793258111a4fd721e} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 09:55:07.243 [INFO] {88f36ad492e13b179b2581111803d189} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 09:55:07.623 [INFO] {583416eb92e13b179e258111759bcc44} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 09:58:08.325 [INFO] {08ecc1fdbce13b17c22581112948af4e} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 09:58:08.714 [INFO] {d0c2ed14bde13b17c5258111b885a204} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 09:58:35.496 [INFO] {00424751c3e13b17d625811135b5bf16} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 09:58:35.881 [INFO] {28ad2e68c3e13b17d9258111af11858c} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 09:59:05.740 [INFO] {68c6f85bcae13b17dc25811145822ad6} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 09:59:06.129 [INFO] {901c2273cae13b17e025811120f6c6a1} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 09:59:08.196 [INFO] {d8af52eecae13b17e2258111f5c5e836} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 09:59:08.591 [INFO] {00badb05cbe13b17e52581115ae0996a} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 09:59:19.195 [INFO] {486ae67dcde13b17ef258111b07217b5} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 09:59:19.576 [INFO] {78b2a294cde13b17f225811100bcc03a} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 10:00:13.703 [INFO] {00d0dd2edae13b17f52581116f5f19f1} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 10:00:14.098 [INFO] {00166c46dae13b17f8258111a696afb5} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 10:00:15.335 [INFO] {184e1d90dae13b17fb2581113b565c3d} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 10:00:15.710 [INFO] {c8207aa6dae13b17fe25811163c4bbf1} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 10:00:18.861 [INFO] {70fb4e62dbe13b17012681113269be57} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 10:00:19.243 [INFO] {30081179dbe13b17042681116560b551} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 10:00:22.184 [INFO] {98326028dce13b17072681115f71d45d} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 10:00:22.560 [INFO] {8859c93edce13b170a268111d4591113} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 10:01:11.562 [INFO] {20437ea7e7e13b170d268111cea991d1} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 10:01:11.969 [INFO] {10dcc8bfe7e13b1712268111eeac9f65} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 10:01:16.190 [INFO] {201f65bbe8e13b1713268111a0f0fbca} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 10:01:16.586 [INFO] {0088f5d2e8e13b1717268111feaf99dc} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 10:01:22.579 [INFO] {58582f38eae13b171926811170d1be6d} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 10:01:22.954 [INFO] {9068854eeae13b171c268111a6186fdf} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 10:01:32.341 [INFO] {884c0e7eece13b171f2681110cde64d1} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 10:01:32.732 [INFO] {08f25895ece13b1722268111c4db2451} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 10:03:02.452 [INFO] {b84b107901e23b175e2681118a7523d2} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 10:03:02.846 [INFO] {e044879001e23b1761268111208e2443} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 10:04:57.217 [INFO] {58769f311ce23b17d8268111fe308997} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 10:04:57.627 [INFO] {0883104a1ce23b17dc268111c8b2b411} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 10:06:07.729 [INFO] {60376f9c2ce23b17de2681118ecff93e} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 10:06:08.121 [INFO] {5064d1b32ce23b17e2268111e8ba489b} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 10:06:55.674 [INFO] {c0352cc637e23b17e4268111309aea51} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 10:06:56.077 [INFO] {d01f38de37e23b17e82681113c4dca05} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 10:12:46.558 [INFO] {885f7c7889e23b17f726811128c49916} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 11:55:46.107 [INFO] {10bd5a4228e83b17fc268111725d5a4d} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 12:13:00.502 [INFO] {b0bb111919e93b17fd268111db4c144d} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 12:13:00.927 [INFO] {d8c7643219e93b170227811184bbcb56} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 12:13:03.707 [INFO] {d0431dd819e93b170327811173d51503} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 12:13:04.084 [INFO] {08b28dee19e93b1706278111e21e6960} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 12:22:38.627 [ERRO] {30f473ee19e93b1705278111c9baddd0} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2244: close tcp [::1]:2033->[::1]:64736: use of closed network connection
+Stack:
+1.  freekey-backend/internal/logic.lWs.GetAdminWs
+    /Users/ciel/learn/freekey-backend/internal/logic/system.go:2244
+2.  freekey-backend/internal/service.sWs.GetAdminWs
+    /Users/ciel/learn/freekey-backend/internal/service/system.go:501
+3.  freekey-backend/internal/controller.cAdmin.GetWs
+    /Users/ciel/learn/freekey-backend/internal/controller/system.go:362
+4.  github.com/gogf/gf/v2/net/ghttp.(*middleware).callHandlerFunc.func1
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:131
+5.  github.com/gogf/gf/v2/net/ghttp.niceCallFunc
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_func.go:55
+6.  github.com/gogf/gf/v2/net/ghttp.(*middleware).callHandlerFunc
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:129
+7.  github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1.4
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:90
+8.  github.com/gogf/gf/v2/net/ghttp.niceCallFunc
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_func.go:55
+9.  github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:89
+10. github.com/gogf/gf/v2/util/gutil.TryCatch
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/util/gutil/gutil.go:56
+11. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:49
+12. freekey-backend/internal/logic.lAdmin.MiddlewareAuth
+    /Users/ciel/learn/freekey-backend/internal/logic/system.go:1270
+13. freekey-backend/internal/service.sAdmin.MiddlewareAuth
+    /Users/ciel/learn/freekey-backend/internal/service/system.go:345
+14. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1.1
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:55
+15. github.com/gogf/gf/v2/net/ghttp.niceCallFunc
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_func.go:55
+16. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:54
+17. github.com/gogf/gf/v2/util/gutil.TryCatch
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/util/gutil/gutil.go:56
+18. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:49
+19. freekey-backend/internal/logic.lAdmin.MiddlewareAction
+    /Users/ciel/learn/freekey-backend/internal/logic/system.go:1299
+20. freekey-backend/internal/service.sAdmin.MiddlewareActionLog
+    /Users/ciel/learn/freekey-backend/internal/service/system.go:351
+21. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1.1
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:55
+22. github.com/gogf/gf/v2/net/ghttp.niceCallFunc
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_func.go:55
+23. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:54
+24. github.com/gogf/gf/v2/util/gutil.TryCatch
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/util/gutil/gutil.go:56
+25. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:49
+26. freekey-backend/internal/logic.lSystem.MiddlewareCORS
+    /Users/ciel/learn/freekey-backend/internal/logic/system.go:928
+27. freekey-backend/internal/service.sSystem.MiddlewareCORS
+    /Users/ciel/learn/freekey-backend/internal/service/system.go:149
+28. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1.1
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:55
+29. github.com/gogf/gf/v2/net/ghttp.niceCallFunc
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_func.go:55
+30. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:54
+31. github.com/gogf/gf/v2/util/gutil.TryCatch
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/util/gutil/gutil.go:56
+32. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:49
+33. github.com/gogf/gf/v2/net/ghttp.internalMiddlewareServerTracing
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_middleware_tracing.go:78
+34. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1.5
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:96
+35. github.com/gogf/gf/v2/net/ghttp.niceCallFunc
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_func.go:55
+36. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:95
+37. github.com/gogf/gf/v2/util/gutil.TryCatch
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/util/gutil/gutil.go:56
+38. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:49
+39. github.com/gogf/gf/v2/net/ghttp.(*Server).ServeHTTP
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_server_handler.go:132
+
+2023-01-20 12:22:38.627 [INFO] {80db09b49fe93b170b278111e90ac781} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 12:22:38.628 [INFO] {f0d40eb49fe93b170c278111fbe230d2} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 12:22:41.928 [INFO] {9032c978a0e93b170d2781116caafbfb} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 12:22:42.321 [INFO] {80b23290a0e93b171027811125fa580d} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 12:22:43.903 [INFO] {48c175eea0e93b171327811139fcff89} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 12:22:44.271 [INFO] {90af6f04a1e93b171627811183bc11f3} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 12:22:47.110 [INFO] {10039dada1e93b1719278111853a2334} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 12:22:47.484 [INFO] {c088f1c3a1e93b171c278111a9132718} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 12:22:51.687 [INFO] {68a879bea2e93b171f278111100a12a6} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 12:22:52.087 [INFO] {40c247d6a2e93b172227811100677673} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 12:23:14.424 [INFO] {1800ae09a8e93b17322781115b1edfb6} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 12:23:14.819 [INFO] {b8c63e21a8e93b1735278111ca3e65b5} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 12:26:47.563 [INFO] {e80dc7a9d9e93b1738278111b2615680} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 12:26:47.947 [INFO] {10b5a4c0d9e93b173c2781117e262267} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 12:33:41.510 [INFO] {e8a4f00a3aea3b173e2781114f2c111f} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 12:33:49.282 [INFO] {a04d23da3bea3b17412781110ddd8b38} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 12:36:28.408 [INFO] {f8f9d3e660ea3b1744278111cb9e93e9} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 12:36:28.876 [INFO] {289eb60261ea3b174727811115d30893} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 12:40:13.761 [INFO] {6853ea5e95ea3b174a27811184fb9c08} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 12:40:14.201 [INFO] {481f1a7995ea3b174e2781115527536c} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 12:40:54.328 [INFO] {8037e6d09eea3b17502781115bf4a7a3} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 12:40:54.774 [INFO] {c0b972eb9eea3b17542781116290c419} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 12:50:40.069 [INFO] {c8fec43127eb3b175b2781118daaa176} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 12:51:31.642 [INFO] {a824c03333eb3b17602781118472420e} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 12:51:46.557 [INFO] {a879c6ac36eb3b1761278111929db25b} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 12:51:46.957 [INFO] {f02795c436eb3b1764278111cc812cfb} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 12:52:00.048 [INFO] {d038e0d039eb3b1767278111a3a69b65} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 12:52:02.862 [INFO] {e02ca2783aeb3b176a278111e6f545a4} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 12:52:28.398 [INFO] {28c1aa6a40eb3b176d278111d2349ee1} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 12:54:19.026 [INFO] {9066992c5aeb3b1770278111ab6a2382} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 12:54:37.414 [INFO] {08f09b745eeb3b177327811187c40652} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 12:54:37.850 [INFO] {60d49a8e5eeb3b1777278111209e649b} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 12:55:08.127 [INFO] {3012429b65eb3b17792781118165cbbd} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 12:55:08.512 [INFO] {b8b432b265eb3b177d2781117d637fc1} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 12:55:24.382 [INFO] {b86b206469eb3b177f278111932e1e09} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 12:55:24.770 [INFO] {58c0467b69eb3b178227811107214263} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 12:55:32.118 [INFO] {704b41316beb3b17852781119bc7f32e} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 12:55:32.490 [INFO] {00796d476beb3b1788278111b85210f1} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 12:55:47.330 [INFO] {10bbeebb6eeb3b178b278111ea6a92ae} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 12:55:47.751 [INFO] {70fc06d56eeb3b178f2781110c88fa60} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 12:56:33.456 [INFO] {c0db4b7979eb3b17912781113e2f0c99} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 12:56:33.876 [INFO] {58df509279eb3b179427811158902ba4} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 12:56:42.553 [INFO] {300286977beb3b17972781116303c1b8} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 12:56:42.926 [INFO] {c064bead7beb3b179a27811121b0d93f} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 12:56:52.186 [INFO] {f06ca7d57deb3b179d2781111fbd6357} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 12:56:52.613 [INFO] {08fd1cef7deb3b17a0278111d21d8b59} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 12:57:53.238 [INFO] {288fad0c8ceb3b17a3278111b6e868e6} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 12:58:03.166 [INFO] {a8c8655c8eeb3b17a62781119baf122b} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 13:09:23.309 [INFO] {d03d0fb82cec3b17a92781113e8e25f4} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 13:09:23.706 [INFO] {103cc3cf2cec3b17ad278111d61c1c22} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 13:10:31.957 [INFO] {c0e7cdb33cec3b17af278111211a6b4c} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 13:10:32.356 [INFO] {584d9fcb3cec3b17b227811195d678df} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 13:10:39.933 [INFO] {a8643b8f3eec3b17b527811109ffa4a6} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 13:10:40.314 [INFO] {6014eaa53eec3b17b8278111acc39963} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 13:10:55.335 [INFO] {b8a2442542ec3b17bb278111286e4a6b} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 13:10:55.748 [INFO] {503ade3d42ec3b17c02781112720fac3} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 13:14:03.939 [INFO] {4891f60e6eec3b17c12781110249a9c5} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 13:16:20.023 [INFO] {687532be8dec3b17c4278111cd5bcf1f} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 13:16:21.176 [INFO] {7093ea028eec3b17c727811105fcfa60} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 13:16:21.591 [INFO] {7000ab1b8eec3b17ca27811119662248} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 13:16:31.927 [INFO] {0068b78390ec3b17cd278111272f43ac} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 13:16:32.326 [INFO] {7057819b90ec3b17d0278111d14979f6} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 13:16:42.314 [INFO] {d8dfd6ee92ec3b17d32781112b778d7d} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 13:17:49.012 [INFO] {b8095976a2ec3b17d62781117ee445f4} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 13:18:45.716 [INFO] {b0882daaafec3b17d9278111e438119e} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 13:18:46.103 [INFO] {80fa38c1afec3b17de278111fb441d15} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 13:21:51.870 [INFO] {38a3cb01dbec3b17df278111a3d94641} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 13:21:52.255 [INFO] {68f4c418dbec3b17e32781119aaceddc} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 13:21:59.957 [INFO] {1043d9e3dcec3b17e52781115aa030bc} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 13:22:00.350 [INFO] {789d45fbdcec3b17e8278111e2783211} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 13:22:37.254 [INFO] {2870e192e5ec3b17eb2781117e7688de} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 13:22:37.665 [INFO] {b8ce61abe5ec3b17ee278111547af7d4} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 13:23:49.553 [INFO] {f0e03f68f6ec3b17f12781112773291d} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 13:23:49.955 [INFO] {403e3e80f6ec3b17f527811178cc3468} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 13:23:52.286 [INFO] {48fe2b0bf7ec3b17f7278111e9c3adb6} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 13:23:52.659 [INFO] {f0df6321f7ec3b17fb2781117d4e2d44} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 13:31:27.420 [INFO] {4021450361ed3b17fd278111964f3e01} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 13:31:27.823 [INFO] {3023401b61ed3b1700288111cc6e428b} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 13:32:01.433 [INFO] {f09992ee68ed3b170328811193798fcb} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 13:32:01.832 [INFO] {0069640669ed3b170728811108542cbd} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 13:32:15.927 [INFO] {f0c17a4e6ced3b1709288111e54f0e78} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 13:32:16.318 [INFO] {b0cdce656ced3b170c288111d4d8fa4e} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 13:39:23.158 [INFO] {482970c7cfed3b170f2881114d794ac5} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 13:39:23.549 [INFO] {f8a2c0decfed3b17122881111ffb4ab4} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 13:39:32.097 [INFO] {78913edcd1ed3b1715288111fc9553d6} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 13:39:32.491 [INFO] {f8ecbef3d1ed3b171a28811171248056} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 13:46:04.722 [INFO] {90e188462dee3b171b288111de9dfdee} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 13:47:13.055 [INFO] {38e7822f3dee3b171e288111aa5e9932} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 13:47:14.790 [INFO] {e87ee2963dee3b172128811107eda511} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 13:47:15.179 [INFO] {b8531cae3dee3b1726288111203a0291} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 13:47:20.029 [INFO] {785826cf3eee3b1727288111795ef3bb} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 13:47:20.431 [INFO] {f83024e73eee3b172a2881114feb6574} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 13:47:36.696 [INFO] {701aa0b042ee3b172d28811130ead362} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 13:47:37.098 [INFO] {708590c842ee3b1731288111d87596e2} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 13:48:45.845 [INFO] {f0052eca52ee3b1733288111ca680186} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 13:48:46.237 [INFO] {30c099e152ee3b17362881114cec83cc} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 13:49:10.915 [INFO] {f05084a058ee3b173928811144161555} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 13:49:11.299 [INFO] {a0f964b758ee3b173c2881115ca3474d} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 13:55:03.208 [INFO] {b052c9a6aaee3b17432881117e297393} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 13:55:03.611 [INFO] {c02ad8beaaee3b17472881116f88a58f} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 13:55:24.764 [INFO] {f0f29dabafee3b1749288111fdbbb0ab} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 13:55:25.148 [INFO] {c0b986c2afee3b174e288111afb62274} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 13:59:09.231 [INFO] {98f6e8eee3ee3b1750288111b33a648b} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 13:59:25.425 [INFO] {f04221b4e7ee3b1755288111d7d49cb4} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 13:59:25.613 [INFO] {48645bbfe7ee3b1756288111651bc37f} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 13:59:26.046 [INFO] {68d122d9e7ee3b175928811138d4f99e} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 14:15:56.347 [INFO] {78a2b86bceef3b175c288111134fb2e3} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 14:15:56.811 [INFO] {30ec5987ceef3b175f2881117ddaef00} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 14:16:30.732 [INFO] {3881336dd6ef3b177b2881117569f805} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 14:16:31.128 [INFO] {2852ce84d6ef3b177e28811105c2a836} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 14:17:28.634 [INFO] {a8df68e8e3ef3b178d288111fff7c2a0} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 14:17:29.077 [INFO] {283bd702e4ef3b1791288111181cada6} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 14:21:00.768 [INFO] {90db9e4c15f03b1796288111374b2cac} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 14:21:01.226 [INFO] {88dde86715f03b179928811113bbf299} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 14:47:39.857 [INFO] {90b6b69d89f13b179c28811154891113} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 14:47:40.328 [INFO] {307bd6b989f13b17a1288111aee13041} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 14:49:23.426 [INFO] {20e8ecbaa1f13b17b528811182c83eca} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 14:49:23.426 [ERRO] {e0567db989f13b179e288111c300b1eb} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2244: close tcp [::1]:2033->[::1]:55161: use of closed network connection
+Stack:
+1.  freekey-backend/internal/logic.lWs.GetAdminWs
+    /Users/ciel/learn/freekey-backend/internal/logic/system.go:2244
+2.  freekey-backend/internal/service.sWs.GetAdminWs
+    /Users/ciel/learn/freekey-backend/internal/service/system.go:501
+3.  freekey-backend/internal/controller.cAdmin.GetWs
+    /Users/ciel/learn/freekey-backend/internal/controller/system.go:362
+4.  github.com/gogf/gf/v2/net/ghttp.(*middleware).callHandlerFunc.func1
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:131
+5.  github.com/gogf/gf/v2/net/ghttp.niceCallFunc
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_func.go:55
+6.  github.com/gogf/gf/v2/net/ghttp.(*middleware).callHandlerFunc
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:129
+7.  github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1.4
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:90
+8.  github.com/gogf/gf/v2/net/ghttp.niceCallFunc
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_func.go:55
+9.  github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:89
+10. github.com/gogf/gf/v2/util/gutil.TryCatch
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/util/gutil/gutil.go:56
+11. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:49
+12. freekey-backend/internal/logic.lAdmin.MiddlewareAuth
+    /Users/ciel/learn/freekey-backend/internal/logic/system.go:1270
+13. freekey-backend/internal/service.sAdmin.MiddlewareAuth
+    /Users/ciel/learn/freekey-backend/internal/service/system.go:345
+14. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1.1
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:55
+15. github.com/gogf/gf/v2/net/ghttp.niceCallFunc
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_func.go:55
+16. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:54
+17. github.com/gogf/gf/v2/util/gutil.TryCatch
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/util/gutil/gutil.go:56
+18. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:49
+19. freekey-backend/internal/logic.lAdmin.MiddlewareAction
+    /Users/ciel/learn/freekey-backend/internal/logic/system.go:1299
+20. freekey-backend/internal/service.sAdmin.MiddlewareActionLog
+    /Users/ciel/learn/freekey-backend/internal/service/system.go:351
+21. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1.1
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:55
+22. github.com/gogf/gf/v2/net/ghttp.niceCallFunc
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_func.go:55
+23. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:54
+24. github.com/gogf/gf/v2/util/gutil.TryCatch
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/util/gutil/gutil.go:56
+25. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:49
+26. freekey-backend/internal/logic.lSystem.MiddlewareCORS
+    /Users/ciel/learn/freekey-backend/internal/logic/system.go:928
+27. freekey-backend/internal/service.sSystem.MiddlewareCORS
+    /Users/ciel/learn/freekey-backend/internal/service/system.go:149
+28. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1.1
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:55
+29. github.com/gogf/gf/v2/net/ghttp.niceCallFunc
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_func.go:55
+30. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:54
+31. github.com/gogf/gf/v2/util/gutil.TryCatch
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/util/gutil/gutil.go:56
+32. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:49
+33. github.com/gogf/gf/v2/net/ghttp.internalMiddlewareServerTracing
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_middleware_tracing.go:78
+34. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1.5
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:96
+35. github.com/gogf/gf/v2/net/ghttp.niceCallFunc
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_func.go:55
+36. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:95
+37. github.com/gogf/gf/v2/util/gutil.TryCatch
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/util/gutil/gutil.go:56
+38. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:49
+39. github.com/gogf/gf/v2/net/ghttp.(*Server).ServeHTTP
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_server_handler.go:132
+
+2023-01-20 14:49:23.426 [INFO] {90d5f3baa1f13b17b62881116bca9ea5} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 14:55:29.414 [INFO] {082c80f1f6f13b17ca2881119522f662} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 14:55:29.692 [INFO] {808f1b02f7f13b17cc288111bec2c1ef} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 15:02:37.062 [INFO] {406357835af23b17d4288111917d8587} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 15:02:37.343 [INFO] {803313945af23b17d62881119e865f25} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 15:12:55.849 [INFO] {c855ee95eaf23b17ff2881119b55caef} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 15:12:55.850 [ERRO] {4099e8935af23b17d52881116c4bbec9} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2244: close tcp [::1]:2033->[::1]:58967: use of closed network connection
+Stack:
+1.  freekey-backend/internal/logic.lWs.GetAdminWs
+    /Users/ciel/learn/freekey-backend/internal/logic/system.go:2244
+2.  freekey-backend/internal/service.sWs.GetAdminWs
+    /Users/ciel/learn/freekey-backend/internal/service/system.go:501
+3.  freekey-backend/internal/controller.cAdmin.GetWs
+    /Users/ciel/learn/freekey-backend/internal/controller/system.go:362
+4.  github.com/gogf/gf/v2/net/ghttp.(*middleware).callHandlerFunc.func1
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:131
+5.  github.com/gogf/gf/v2/net/ghttp.niceCallFunc
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_func.go:55
+6.  github.com/gogf/gf/v2/net/ghttp.(*middleware).callHandlerFunc
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:129
+7.  github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1.4
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:90
+8.  github.com/gogf/gf/v2/net/ghttp.niceCallFunc
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_func.go:55
+9.  github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:89
+10. github.com/gogf/gf/v2/util/gutil.TryCatch
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/util/gutil/gutil.go:56
+11. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:49
+12. freekey-backend/internal/logic.lAdmin.MiddlewareAuth
+    /Users/ciel/learn/freekey-backend/internal/logic/system.go:1270
+13. freekey-backend/internal/service.sAdmin.MiddlewareAuth
+    /Users/ciel/learn/freekey-backend/internal/service/system.go:345
+14. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1.1
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:55
+15. github.com/gogf/gf/v2/net/ghttp.niceCallFunc
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_func.go:55
+16. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:54
+17. github.com/gogf/gf/v2/util/gutil.TryCatch
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/util/gutil/gutil.go:56
+18. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:49
+19. freekey-backend/internal/logic.lAdmin.MiddlewareAction
+    /Users/ciel/learn/freekey-backend/internal/logic/system.go:1299
+20. freekey-backend/internal/service.sAdmin.MiddlewareActionLog
+    /Users/ciel/learn/freekey-backend/internal/service/system.go:351
+21. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1.1
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:55
+22. github.com/gogf/gf/v2/net/ghttp.niceCallFunc
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_func.go:55
+23. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:54
+24. github.com/gogf/gf/v2/util/gutil.TryCatch
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/util/gutil/gutil.go:56
+25. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:49
+26. freekey-backend/internal/logic.lSystem.MiddlewareCORS
+    /Users/ciel/learn/freekey-backend/internal/logic/system.go:928
+27. freekey-backend/internal/service.sSystem.MiddlewareCORS
+    /Users/ciel/learn/freekey-backend/internal/service/system.go:149
+28. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1.1
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:55
+29. github.com/gogf/gf/v2/net/ghttp.niceCallFunc
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_func.go:55
+30. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:54
+31. github.com/gogf/gf/v2/util/gutil.TryCatch
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/util/gutil/gutil.go:56
+32. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:49
+33. github.com/gogf/gf/v2/net/ghttp.internalMiddlewareServerTracing
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_middleware_tracing.go:78
+34. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1.5
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:96
+35. github.com/gogf/gf/v2/net/ghttp.niceCallFunc
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_func.go:55
+36. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:95
+37. github.com/gogf/gf/v2/util/gutil.TryCatch
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/util/gutil/gutil.go:56
+38. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:49
+39. github.com/gogf/gf/v2/net/ghttp.(*Server).ServeHTTP
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_server_handler.go:132
+
+2023-01-20 15:12:55.850 [INFO] {6042fb95eaf23b17002981112d37ad24} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 15:16:45.089 [INFO] {58c5a9f51ff33b1703298111a606baed} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 15:16:45.378 [INFO] {6885e60620f33b1705298111c3467d64} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 15:19:31.073 [INFO] {48ff129b46f33b170b298111c9cbc167} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 15:19:31.362 [INFO] {307e54ac46f33b170d2981110ad209ef} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 15:20:00.012 [INFO] {0830f5574df33b1720298111c0adf670} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 15:20:00.720 [INFO] {c8ef36824df33b17232981113f6d95bb} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 15:20:02.230 [INFO] {401c2edc4df33b1725298111b143968b} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 15:20:02.516 [INFO] {e08b35ed4df33b172729811102c1735c} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 15:20:06.134 [INFO] {3867e8c44ef33b172d298111f2becd0b} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 15:20:06.375 [INFO] {20aa45d34ef33b172f298111806b54f5} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 15:20:15.338 [INFO] {38ed7ce950f33b173429811149e7efc8} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 15:20:15.612 [INFO] {3802d5f950f33b17362981110e73a7a3} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 15:20:16.904 [INFO] {7864db4651f33b173a29811196e052b7} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 15:20:17.162 [INFO] {3884325651f33b173c29811198422bee} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 15:20:31.513 [INFO] {680c93ad54f33b1741298111c63f628b} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 15:20:31.749 [INFO] {887fa1bb54f33b1743298111637808a8} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 15:20:43.151 [INFO] {b04f4a6357f33b1748298111d8626953} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 15:20:43.429 [INFO] {90d8d57357f33b174a29811167ba435d} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 15:21:11.504 [INFO] {c0cf41fd5df33b175329811178490b04} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 15:21:11.769 [INFO] {68d0060d5ef33b175529811135174c16} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 15:21:13.585 [INFO] {08773f795ef33b175929811144bd588b} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 15:21:13.831 [INFO] {b06cf7875ef33b175b298111b96ed8d9} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 15:21:16.972 [INFO] {003424435ff33b17632981114839efce} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 15:21:17.233 [INFO] {f83bb5525ff33b176529811188b762d9} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 15:21:42.139 [INFO] {70af3d1f65f33b176a298111e08314f6} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 15:21:42.393 [INFO] {68e05f2e65f33b176c298111a48054ad} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 15:22:24.025 [INFO] {30f5d6df6ef33b177729811132c18ce0} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 15:22:24.275 [INFO] {f0deb9ee6ef33b1779298111b904b2ae} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 15:22:30.369 [INFO] {484ef45970f33b177f2981117d97a923} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 15:22:30.644 [INFO] {d89e536a70f33b17812981114a2e435d} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 15:23:11.502 [INFO] {984ca9ed79f33b178829811140400cd6} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 15:23:11.899 [INFO] {38e256057af33b178b298111267096b0} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 15:23:30.978 [INFO] {00928c767ef33b1796298111e11e0c35} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 15:23:31.402 [INFO] {f817cd8f7ef33b1799298111decdc0e0} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 15:23:43.725 [INFO] {102a536e81f33b17cb298111bf3f9325} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 15:23:44.141 [INFO] {70da1a8781f33b17ce298111d80828df} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 15:26:59.180 [INFO] {305954f0aef33b17fa2981119746d7ab} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 15:26:59.582 [INFO] {c0704e08aff33b17fd2981115cee8bbc} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 15:27:00.480 [INFO] {c85fd63daff33b170b2a8111c18534fe} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 15:27:00.860 [INFO] {88c77454aff33b170e2a8111958c1121} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 15:38:15.230 [INFO] {98b50c584cf43b172f2a81116af88de9} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 15:38:15.629 [INFO] {70ffd26f4cf43b17322a81116756c5bf} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 15:38:17.293 [INFO] {109d04d34cf43b17402a8111de0bc7c4} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 15:38:17.694 [INFO] {f054f0ea4cf43b17432a8111cc82dfff} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 15:41:17.245 [ERRO] {b811daea4cf43b17422a811166bc6283} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2244: close tcp [::1]:2033->[::1]:52335: use of closed network connection
+Stack:
+1.  freekey-backend/internal/logic.lWs.GetAdminWs
+    /Users/ciel/learn/freekey-backend/internal/logic/system.go:2244
+2.  freekey-backend/internal/service.sWs.GetAdminWs
+    /Users/ciel/learn/freekey-backend/internal/service/system.go:501
+3.  freekey-backend/internal/controller.cAdmin.GetWs
+    /Users/ciel/learn/freekey-backend/internal/controller/system.go:362
+4.  github.com/gogf/gf/v2/net/ghttp.(*middleware).callHandlerFunc.func1
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:131
+5.  github.com/gogf/gf/v2/net/ghttp.niceCallFunc
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_func.go:55
+6.  github.com/gogf/gf/v2/net/ghttp.(*middleware).callHandlerFunc
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:129
+7.  github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1.4
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:90
+8.  github.com/gogf/gf/v2/net/ghttp.niceCallFunc
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_func.go:55
+9.  github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:89
+10. github.com/gogf/gf/v2/util/gutil.TryCatch
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/util/gutil/gutil.go:56
+11. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:49
+12. freekey-backend/internal/logic.lAdmin.MiddlewareAuth
+    /Users/ciel/learn/freekey-backend/internal/logic/system.go:1270
+13. freekey-backend/internal/service.sAdmin.MiddlewareAuth
+    /Users/ciel/learn/freekey-backend/internal/service/system.go:345
+14. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1.1
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:55
+15. github.com/gogf/gf/v2/net/ghttp.niceCallFunc
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_func.go:55
+16. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:54
+17. github.com/gogf/gf/v2/util/gutil.TryCatch
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/util/gutil/gutil.go:56
+18. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:49
+19. freekey-backend/internal/logic.lAdmin.MiddlewareAction
+    /Users/ciel/learn/freekey-backend/internal/logic/system.go:1299
+20. freekey-backend/internal/service.sAdmin.MiddlewareActionLog
+    /Users/ciel/learn/freekey-backend/internal/service/system.go:351
+21. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1.1
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:55
+22. github.com/gogf/gf/v2/net/ghttp.niceCallFunc
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_func.go:55
+23. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:54
+24. github.com/gogf/gf/v2/util/gutil.TryCatch
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/util/gutil/gutil.go:56
+25. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:49
+26. freekey-backend/internal/logic.lSystem.MiddlewareCORS
+    /Users/ciel/learn/freekey-backend/internal/logic/system.go:928
+27. freekey-backend/internal/service.sSystem.MiddlewareCORS
+    /Users/ciel/learn/freekey-backend/internal/service/system.go:149
+28. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1.1
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:55
+29. github.com/gogf/gf/v2/net/ghttp.niceCallFunc
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_func.go:55
+30. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:54
+31. github.com/gogf/gf/v2/util/gutil.TryCatch
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/util/gutil/gutil.go:56
+32. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:49
+33. github.com/gogf/gf/v2/net/ghttp.internalMiddlewareServerTracing
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_middleware_tracing.go:78
+34. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1.5
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:96
+35. github.com/gogf/gf/v2/net/ghttp.niceCallFunc
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_func.go:55
+36. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:95
+37. github.com/gogf/gf/v2/util/gutil.TryCatch
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/util/gutil/gutil.go:56
+38. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:49
+39. github.com/gogf/gf/v2/net/ghttp.(*Server).ServeHTTP
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_server_handler.go:132
+
+2023-01-20 15:41:17.246 [INFO] {30210fb976f43b17552a8111f795b4be} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 15:41:17.245 [INFO] {008ffeb876f43b17542a8111c9e0a4c5} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 15:47:01.761 [INFO] {1038beefc6f43b176b2a81114cd4ce27} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 15:47:02.227 [INFO] {9828840bc7f43b176e2a811172de0e81} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 15:47:43.136 [INFO] {b80ce691d0f43b17732a81111c04c933} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 15:47:43.602 [INFO] {e8c9afadd0f43b17762a8111cd8fd5f6} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 15:50:41.879 [INFO] {9029d42ffaf43b17792a811118d1a2ad} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 15:50:42.336 [INFO] {e0ac0d4bfaf43b177c2a8111cd047e2b} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 15:55:42.307 [INFO] {5866b92240f53b177f2a811196a27a00} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 15:55:44.927 [INFO] {604ee1be40f53b17822a8111d2600ca9} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 15:57:02.938 [ERRO] {b853bbbe40f53b17812a8111be1b0133} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2244: close tcp [::1]:2033->[::1]:56907: use of closed network connection
+Stack:
+1.  freekey-backend/internal/logic.lWs.GetAdminWs
+    /Users/ciel/learn/freekey-backend/internal/logic/system.go:2244
+2.  freekey-backend/internal/service.sWs.GetAdminWs
+    /Users/ciel/learn/freekey-backend/internal/service/system.go:501
+3.  freekey-backend/internal/controller.cAdmin.GetWs
+    /Users/ciel/learn/freekey-backend/internal/controller/system.go:362
+4.  github.com/gogf/gf/v2/net/ghttp.(*middleware).callHandlerFunc.func1
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:131
+5.  github.com/gogf/gf/v2/net/ghttp.niceCallFunc
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_func.go:55
+6.  github.com/gogf/gf/v2/net/ghttp.(*middleware).callHandlerFunc
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:129
+7.  github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1.4
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:90
+8.  github.com/gogf/gf/v2/net/ghttp.niceCallFunc
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_func.go:55
+9.  github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:89
+10. github.com/gogf/gf/v2/util/gutil.TryCatch
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/util/gutil/gutil.go:56
+11. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:49
+12. freekey-backend/internal/logic.lAdmin.MiddlewareAuth
+    /Users/ciel/learn/freekey-backend/internal/logic/system.go:1270
+13. freekey-backend/internal/service.sAdmin.MiddlewareAuth
+    /Users/ciel/learn/freekey-backend/internal/service/system.go:345
+14. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1.1
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:55
+15. github.com/gogf/gf/v2/net/ghttp.niceCallFunc
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_func.go:55
+16. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:54
+17. github.com/gogf/gf/v2/util/gutil.TryCatch
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/util/gutil/gutil.go:56
+18. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:49
+19. freekey-backend/internal/logic.lAdmin.MiddlewareAction
+    /Users/ciel/learn/freekey-backend/internal/logic/system.go:1299
+20. freekey-backend/internal/service.sAdmin.MiddlewareActionLog
+    /Users/ciel/learn/freekey-backend/internal/service/system.go:351
+21. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1.1
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:55
+22. github.com/gogf/gf/v2/net/ghttp.niceCallFunc
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_func.go:55
+23. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:54
+24. github.com/gogf/gf/v2/util/gutil.TryCatch
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/util/gutil/gutil.go:56
+25. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:49
+26. freekey-backend/internal/logic.lSystem.MiddlewareCORS
+    /Users/ciel/learn/freekey-backend/internal/logic/system.go:928
+27. freekey-backend/internal/service.sSystem.MiddlewareCORS
+    /Users/ciel/learn/freekey-backend/internal/service/system.go:149
+28. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1.1
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:55
+29. github.com/gogf/gf/v2/net/ghttp.niceCallFunc
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_func.go:55
+30. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:54
+31. github.com/gogf/gf/v2/util/gutil.TryCatch
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/util/gutil/gutil.go:56
+32. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:49
+33. github.com/gogf/gf/v2/net/ghttp.internalMiddlewareServerTracing
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_middleware_tracing.go:78
+34. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1.5
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:96
+35. github.com/gogf/gf/v2/net/ghttp.niceCallFunc
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_func.go:55
+36. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:95
+37. github.com/gogf/gf/v2/util/gutil.TryCatch
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/util/gutil/gutil.go:56
+38. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:49
+39. github.com/gogf/gf/v2/net/ghttp.(*Server).ServeHTTP
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_server_handler.go:132
+
+2023-01-20 15:57:02.942 [INFO] {9038f4e852f53b17902a8111f356bae3} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 15:57:02.947 [INFO] {982d42e952f53b17912a8111eb24b87a} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 15:59:17.401 [INFO] {5898543772f53b179b2a81116f150f06} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 16:10:53.307 [INFO] {d03a8b3e14f63b17a02a81115248dad4} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 16:12:15.076 [INFO] {681e614827f63b17e42a81118b4ccb13} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 16:12:15.333 [INFO] {589ca75727f63b17e62a81115001f89f} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 16:12:18.176 [INFO] {c841290128f63b17eb2a81111ea8ca93} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 16:12:18.440 [INFO] {4021e01028f63b17ed2a8111e6ea31f8} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 16:12:20.090 [INFO] {584a3c7328f63b17f12a81111a3d4eb8} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 16:12:20.354 [INFO] {0862f68228f63b17f32a811195bfe023} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 16:12:22.299 [INFO] {c85de9f628f63b17f72a8111a5299e98} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 16:12:22.554 [INFO] {90c5180629f63b17f92a811135b01f4d} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 16:12:24.575 [INFO] {f09f8d7e29f63b17fd2a8111a4e6edbe} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 16:12:24.822 [INFO] {b085478d29f63b17ff2a8111491930b1} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 16:12:26.075 [INFO] {c00cedd729f63b17032b8111cb54b5b0} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 16:12:26.321 [INFO] {9800a4e629f63b17052b811168af63db} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 16:12:47.164 [INFO] {08cff4c02ef63b170a2b81114ad550b2} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 16:12:55.322 [INFO] {c0223da730f63b170e2b8111d688b429} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 16:13:21.310 [INFO] {400635b436f63b17172b8111ebdc8c4f} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 16:13:21.793 [INFO] {c83dfed036f63b171a2b81113607e4d6} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 16:13:21.919 [INFO] {b0f187d836f63b171e2b811191a03141} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 16:13:22.152 [INFO] {58f16de636f63b17202b81117fbf6ff1} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 16:13:25.498 [INFO] {e8d1d0ad37f63b17252b8111518f3ff2} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 16:13:25.994 [INFO] {d87164cb37f63b17282b81117647b927} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 16:13:40.326 [INFO] {c888ae213bf63b17342b81111b70a212} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 16:13:40.571 [INFO] {f86344303bf63b17362b81115ad5af00} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 16:15:15.815 [INFO] {68253e5d51f63b17552b811136d3015c} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 16:15:16.064 [INFO] {d8fe176c51f63b17572b8111168ff7f9} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 16:15:17.244 [INFO] {d8fe67b251f63b175b2b8111031d82e7} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 16:15:17.504 [INFO] {7827efc151f63b175d2b81112db012c2} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 16:15:22.546 [INFO] {382973ee52f63b17622b81119aa9343a} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 16:15:22.787 [INFO] {080bccfc52f63b17642b811185332236} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 16:15:23.906 [INFO] {e05a893f53f63b17682b8111ed06ec72} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 16:15:24.159 [INFO] {901b964e53f63b176a2b811129c6955d} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 16:15:30.281 [INFO] {486175bb54f63b176f2b81110bffc27d} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 16:15:30.554 [INFO] {18aec5cb54f63b17712b811159536ed5} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 16:15:56.230 [INFO] {c82a2ac65af63b17772b8111973d8a4d} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 16:15:56.504 [INFO] {d02080d65af63b17792b811138e71ea0} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 16:16:04.987 [INFO] {40ac1fd05cf63b177e2b8111dbc381c9} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 16:16:05.259 [INFO] {785a56e05cf63b17802b81118c73e1f7} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 16:16:06.766 [INFO] {881c2a3a5df63b17842b81113f2aea05} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 16:16:07.010 [INFO] {9880b1485df63b17862b8111f1ebb023} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 16:16:47.564 [INFO] {3846e5b966f63b178b2b81111da52cc5} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 16:16:47.820 [INFO] {d89b26c966f63b178d2b8111b3f99a59} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 16:17:07.646 [INFO] {885ade666bf63b17932b8111a47d730b} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 16:17:07.885 [INFO] {30e42a756bf63b17952b81113a05c222} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 16:17:19.994 [INFO] {f0dbe9466ef63b179a2b81115c7597d3} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 16:17:20.269 [INFO] {803248576ef63b179c2b811113cd5acf} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 16:17:25.624 [INFO] {a0c97d966ff63b17a12b811109c48282} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 16:17:25.876 [INFO] {08de7ea56ff63b17a32b811116e69c11} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 16:17:31.693 [INFO] {d0e0340071f63b17a82b8111e55a5a8e} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 16:17:31.956 [INFO] {9073e10f71f63b17aa2b8111f9e4bc94} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 16:17:53.545 [INFO] {b8a0a81676f63b17af2b81117637d002} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 16:17:53.787 [INFO] {981f182576f63b17b12b8111a428567e} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 16:17:55.453 [INFO] {381b648876f63b17b52b8111c23378fa} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 16:17:55.690 [INFO] {00bf8f9676f63b17b72b811134dba933} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 16:18:02.699 [INFO] {c0d1553878f63b17bc2b8111f5f50e54} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 16:18:02.957 [INFO] {986aad4778f63b17be2b8111ae8dfc5a} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 16:18:18.678 [INFO] {90cabcf07bf63b17c32b81115d1f0306} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 16:18:18.921 [INFO] {188732ff7bf63b17c52b8111fb477b57} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 16:18:23.763 [INFO] {98a7ca1f7df63b17ca2b8111220111dc} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 16:18:24.038 [INFO] {f0f432307df63b17cc2b8111816a8454} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 16:18:31.233 [INFO] {687a0edd7ef63b17d12b811158fd1bd7} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 16:18:31.504 [INFO] {109a36ed7ef63b17d32b811183bc4171} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 16:18:55.144 [INFO] {300d4a6e84f63b17d82b81114b8468ef} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 16:18:55.421 [INFO] {e0cdcd7e84f63b17da2b8111761c84a4} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 16:19:19.726 [INFO] {407180278af63b17e12b8111649a3bf2} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 16:19:20.008 [INFO] {20f74a388af63b17e32b8111c4d16f04} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 16:19:35.009 [INFO] {b84867b68df63b17ea2b81118d1b7950} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 16:19:35.252 [INFO] {c84de9c48df63b17ec2b8111e2b0797b} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 16:19:50.857 [INFO] {f8750e6791f63b17f12b811165bc5b3b} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 16:19:51.102 [INFO] {986ea37591f63b17f32b811102e29604} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 16:20:25.886 [INFO] {c043ee8e99f63b17f82b81110c3d478c} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 16:20:26.138 [INFO] {e02df89d99f63b17fa2b8111997c784a} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 16:20:37.301 [INFO] {70d14b379cf63b17ff2b811145bccb35} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 16:20:43.227 [INFO] {e0d47f989df63b17012c8111ca0e504a} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 16:21:12.896 [INFO] {9870f680a4f63b17062c81118cbdb940} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 16:21:13.172 [INFO] {48146a91a4f63b17082c8111ba913361} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 16:21:20.001 [INFO] {48886728a6f63b170d2c811156d713c4} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 16:21:20.263 [INFO] {40120d38a6f63b170f2c8111d4b94c35} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 16:21:22.183 [INFO] {48d37baaa6f63b17132c81110fd57476} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 16:21:22.435 [INFO] {90da86b9a6f63b17152c81118842b95e} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 16:21:30.627 [INFO] {c002c7a1a8f63b171a2c811122f2430d} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 16:21:30.878 [INFO] {d877c1b0a8f63b171c2c8111c5cb502c} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 16:21:33.925 [INFO] {28005b66a9f63b17212c811151a3eb3d} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 16:21:34.158 [INFO] {58f54574a9f63b17232c8111ff1501e4} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 16:22:02.428 [INFO] {c02c4209b0f63b172a2c81110f7abe86} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 16:22:02.679 [INFO] {58e63b18b0f63b172c2c8111ce02c28f} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 16:22:25.767 [INFO] {18896978b5f63b17312c8111f3cb41f1} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 16:22:26.040 [INFO] {00eba088b5f63b17332c8111d1db3784} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 16:22:27.567 [INFO] {285fa4e3b5f63b17372c81117e451fc7} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 16:22:27.821 [INFO] {20c5d2f2b5f63b17392c811100e48c87} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 16:22:31.031 [INFO] {c0bd29b2b6f63b173f2c811156a920fa} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 16:22:31.291 [INFO] {b8f69dc1b6f63b17412c8111364d5611} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 16:22:47.629 [INFO] {a81a728fbaf63b17472c81112def8742} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 16:22:47.877 [INFO] {a8423b9ebaf63b17492c8111bc0f8b30} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 16:22:49.058 [INFO] {e8e99ee4baf63b174d2c8111a62f8f42} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 16:22:49.300 [INFO] {085816f3baf63b174f2c8111d8d63e3f} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 16:22:54.645 [INFO] {10dda831bcf63b17542c81111feaabc0} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 16:22:54.907 [INFO] {208d4741bcf63b17562c8111b37f5dd8} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 16:22:56.876 [INFO] {1058a3b6bcf63b175a2c811112158f04} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 16:22:57.142 [INFO] {083f78c6bcf63b175c2c8111024b6432} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 16:23:01.876 [INFO] {4835a4e0bdf63b17612c8111d27715a6} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 16:23:02.135 [INFO] {e00018f0bdf63b17632c811161a6b44d} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 16:23:32.060 [INFO] {608dbce7c4f63b176a2c8111923c13f5} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 16:23:32.376 [INFO] {b0ac8ffac4f63b176c2c8111bedd39a3} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 16:23:37.756 [INFO] {f049483bc6f63b17712c8111f4e8b52c} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 16:23:38.044 [INFO] {58b56d4cc6f63b17732c8111c0a627a0} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 16:24:23.898 [INFO] {d08784f9d0f63b17832c81117c9bd7c7} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 16:24:24.149 [INFO] {e0b07d08d1f63b17852c81112bfa48f2} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 16:24:25.767 [ERRO] {e0a56a08d1f63b17842c81110077500c} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2244: close tcp [::1]:2033->[::1]:64653: use of closed network connection
+Stack:
+1.  freekey-backend/internal/logic.lWs.GetAdminWs
+    /Users/ciel/learn/freekey-backend/internal/logic/system.go:2244
+2.  freekey-backend/internal/service.sWs.GetAdminWs
+    /Users/ciel/learn/freekey-backend/internal/service/system.go:501
+3.  freekey-backend/internal/controller.cAdmin.GetWs
+    /Users/ciel/learn/freekey-backend/internal/controller/system.go:362
+4.  github.com/gogf/gf/v2/net/ghttp.(*middleware).callHandlerFunc.func1
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:131
+5.  github.com/gogf/gf/v2/net/ghttp.niceCallFunc
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_func.go:55
+6.  github.com/gogf/gf/v2/net/ghttp.(*middleware).callHandlerFunc
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:129
+7.  github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1.4
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:90
+8.  github.com/gogf/gf/v2/net/ghttp.niceCallFunc
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_func.go:55
+9.  github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:89
+10. github.com/gogf/gf/v2/util/gutil.TryCatch
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/util/gutil/gutil.go:56
+11. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:49
+12. freekey-backend/internal/logic.lAdmin.MiddlewareAuth
+    /Users/ciel/learn/freekey-backend/internal/logic/system.go:1270
+13. freekey-backend/internal/service.sAdmin.MiddlewareAuth
+    /Users/ciel/learn/freekey-backend/internal/service/system.go:345
+14. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1.1
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:55
+15. github.com/gogf/gf/v2/net/ghttp.niceCallFunc
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_func.go:55
+16. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:54
+17. github.com/gogf/gf/v2/util/gutil.TryCatch
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/util/gutil/gutil.go:56
+18. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:49
+19. freekey-backend/internal/logic.lAdmin.MiddlewareAction
+    /Users/ciel/learn/freekey-backend/internal/logic/system.go:1299
+20. freekey-backend/internal/service.sAdmin.MiddlewareActionLog
+    /Users/ciel/learn/freekey-backend/internal/service/system.go:351
+21. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1.1
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:55
+22. github.com/gogf/gf/v2/net/ghttp.niceCallFunc
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_func.go:55
+23. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:54
+24. github.com/gogf/gf/v2/util/gutil.TryCatch
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/util/gutil/gutil.go:56
+25. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:49
+26. freekey-backend/internal/logic.lSystem.MiddlewareCORS
+    /Users/ciel/learn/freekey-backend/internal/logic/system.go:928
+27. freekey-backend/internal/service.sSystem.MiddlewareCORS
+    /Users/ciel/learn/freekey-backend/internal/service/system.go:149
+28. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1.1
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:55
+29. github.com/gogf/gf/v2/net/ghttp.niceCallFunc
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_func.go:55
+30. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:54
+31. github.com/gogf/gf/v2/util/gutil.TryCatch
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/util/gutil/gutil.go:56
+32. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:49
+33. github.com/gogf/gf/v2/net/ghttp.internalMiddlewareServerTracing
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_middleware_tracing.go:78
+34. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1.5
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:96
+35. github.com/gogf/gf/v2/net/ghttp.niceCallFunc
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_func.go:55
+36. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:95
+37. github.com/gogf/gf/v2/util/gutil.TryCatch
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/util/gutil/gutil.go:56
+38. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:49
+39. github.com/gogf/gf/v2/net/ghttp.(*Server).ServeHTTP
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_server_handler.go:132
+
+2023-01-20 16:24:25.769 [INFO] {c88c0869d1f63b178b2c811102cd3ad4} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 16:24:25.767 [INFO] {a863ed68d1f63b178a2c8111380d8d4f} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 16:24:27.685 [INFO] {c04049dbd1f63b17992c81119632134b} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 16:24:31.274 [INFO] {20a828b1d2f63b179c2c8111646e5657} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 16:25:08.284 [INFO] {88322b4fdbf63b17a02c8111132b10b2} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 16:25:08.523 [INFO] {900c685ddbf63b17a22c81110566eb8a} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 16:25:35.675 [INFO] {5860cbafe1f63b17a42c8111f3524ba3} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 16:25:35.916 [INFO] {000d27bee1f63b17a62c81119180b730} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 16:26:21.272 [INFO] {80ca9a4decf63b17c22c811139845683} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 16:26:21.520 [INFO] {b813565cecf63b17c72c8111dd803094} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 16:26:27.076 [INFO] {400e7da7edf63b17cb2c8111bf0fee2a} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 16:26:27.314 [INFO] {f84eb2b5edf63b17ce2c8111a8ca38c0} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 16:32:29.658 [INFO] {2868161342f73b17e42c81112906b271} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 16:32:29.879 [INFO] {081a452042f73b17e62c81116ecdaffa} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 16:35:21.095 [INFO] {18a487fd69f73b17f12c8111f9305122} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 16:35:21.314 [INFO] {c83b920a6af73b17f32c8111cc10aebb} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 16:36:03.677 [INFO] {20859be773f73b17fc2c8111c6b95bf9} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 16:36:03.935 [INFO] {4899fff673f73b17fe2c81114ab6949f} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 17:16:18.590 [INFO] {d87da42ba6f93b17002d811174783d51} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 18:45:21.765 [INFO] {8831ac3982fe3b17082d8111cbfa772a} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 19:08:54.846 [INFO] {f006e63bcbff3b170a2d8111a420a123} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 19:08:55.183 [INFO] {f887f84fcbff3b170d2d81116db10388} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 19:13:31.755 [INFO] {10bef5b40b003c170e2d8111f040a1ee} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 19:13:32.224 [INFO] {289be4d00b003c17112d81119b45fae9} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 19:14:06.160 [INFO] {e81ea8b713003c17142d8111c984c374} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 19:14:06.769 [INFO] {780bf3db13003c17172d81117e2088ea} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 19:14:24.424 [INFO] {005a3df817003c171a2d8111bc09d1eb} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 19:14:24.908 [INFO] {78da1d1518003c171d2d8111ed483bc4} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 19:15:15.361 [INFO] {e0d053d423003c17202d811120865ab6} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 19:15:15.820 [INFO] {a063b8ef23003c17232d811121a0f135} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 19:15:29.228 [INFO] {d844dc0e27003c17262d81115efdc659} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 19:15:29.710 [INFO] {a03ca02b27003c17292d81115e8ecbaf} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 19:15:33.268 [INFO] {58f9abff27003c172c2d8111bcf4b9c6} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 19:15:33.734 [INFO] {60697c1b28003c172f2d811194594c93} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 19:16:11.102 [INFO] {2899c8ce30003c17322d81112be615c9} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 19:16:11.584 [INFO] {803882eb30003c17352d8111245797a8} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 19:17:40.829 [INFO] {701cebb245003c17382d8111a103ba63} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 19:17:41.279 [INFO] {7880c3cd45003c173b2d8111bcb6938f} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 19:18:13.089 [INFO] {40d1bd354d003c173e2d8111d61e8bd7} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 19:18:13.536 [INFO] {a08863504d003c17412d8111ffe06771} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 19:19:24.875 [INFO] {f0b485ec5d003c17442d81111f1e7293} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 19:19:25.330 [INFO] {d015ac075e003c17472d811199df9596} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 19:20:59.346 [INFO] {689478eb73003c174a2d8111401bcb10} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 19:20:59.805 [INFO] {b07cd20674003c174d2d8111e7a6c33a} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 19:23:04.526 [INFO] {60b5bd1091003c17502d8111051b1a38} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 19:23:04.993 [INFO] {a0c8942c91003c17532d81113ba5b3c3} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 19:29:16.674 [INFO] {308c7eb6e7003c175a2d81118e3434c0} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 19:29:17.123 [INFO] {386e42d1e7003c175d2d81113808010a} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 19:33:30.141 [INFO] {50e750ba22013c17672d8111e857cdc6} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 19:33:30.595 [INFO] {50f068d522013c176b2d8111abe0f443} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 19:33:42.286 [INFO] {5836328e25013c176e2d8111da76c781} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 19:33:42.759 [INFO] {b8bc6baa25013c17712d8111749e8a06} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 19:34:40.927 [INFO] {b8ee823533013c17752d8111afe7fc0b} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 19:34:41.432 [INFO] {f0cf9b5333013c17782d8111696a6943} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 19:58:04.333 [INFO] {d0b909f779023c17bb2d811182a5f9a5} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 19:58:04.610 [INFO] {70ee88077a023c17bd2d8111746f9f17} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 20:08:43.281 [INFO] {78654dbb0e033c17f82d81115adcafb3} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 20:08:43.512 [INFO] {b86b12c90e033c17fa2d811132dff234} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 20:08:59.941 [INFO] {48f24c9c12033c17022e8111317b7c5d} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 20:09:00.179 [INFO] {90e076aa12033c17042e8111332bb807} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 20:10:03.659 [INFO] {f00b337221033c17092e8111bc34cecd} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 20:10:03.874 [INFO] {b837fb7e21033c170b2e8111186b8a8b} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 20:13:14.879 [INFO] {d8ccc8f74d033c17182e8111563eaf91} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 20:13:15.122 [INFO] {d0524b064e033c171a2e8111c8f299c1} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 20:15:34.254 [INFO] {00522d6b6e033c17262e81111f2dbf6e} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 20:15:34.509 [INFO] {e8015e7a6e033c17282e8111c0b1523a} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 20:16:06.807 [INFO] {b05a79ff75033c172a2e8111a8251d95} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 20:16:07.076 [INFO] {30648a0f76033c172c2e811171903efb} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 20:16:42.278 [INFO] {f0e4be417e033c172e2e8111e8f1d2c5} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 20:16:42.542 [INFO] {102c75517e033c17302e81113d451dbc} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 20:17:10.247 [INFO] {4036d0c484033c17322e8111ae1ae669} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 20:17:10.490 [INFO] {680246d384033c17342e811185044cd0} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 20:17:32.399 [INFO] {884131ed89033c17362e8111d723c332} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 20:17:32.663 [INFO] {28d9e4fc89033c17382e81110d2e597a} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 20:17:40.671 [INFO] {90f436da8b033c173d2e8111f322aad6} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 20:17:40.888 [INFO] {904a2ee78b033c173f2e811101c535bb} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 20:18:37.564 [INFO] {d096531999033c17512e8111ab21f998} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 20:18:37.821 [INFO] {00e0a72899033c17532e8111d103fe7c} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 20:19:20.651 [INFO] {20927d21a3033c177b2e81119a6b5baf} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 20:19:20.905 [INFO] {088aa230a3033c177e2e81119d185bcb} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 20:23:30.479 [INFO] {b02f684cdd033c17b12e81118baa951f} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 20:23:30.890 [INFO] {28f7ec64dd033c17b32e8111a7f0555d} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 20:23:49.093 [INFO] {9045e1a1e1033c17be2e8111b6514f0e} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 20:23:49.484 [INFO] {b8582ab9e1033c17c02e8111b8c60e23} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 20:24:31.935 [INFO] {c0a4719beb033c177d2f811119cac428} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 20:24:32.192 [INFO] {20fec1aaeb033c177f2f81118a628125} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 20:25:29.959 [INFO] {50f2f41df9033c17ba2f81110afe3585} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 20:25:30.206 [INFO] {2845b12cf9033c17bd2f81112827a599} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 21:02:00.804 [INFO] {98628336f7053c17c32f8111adb52f65} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 23:02:53.321 [INFO] {d8a52ed28f0c3c17c82f8111a7e3545f} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 23:29:12.216 [INFO] {90cdb36fff0d3c17d983d624cbb2122d} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 23:29:13.695 [INFO] {f0b4d7c7ff0d3c17da83d624d4f3dc20} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 23:29:18.852 [INFO] {f8743afb000e3c17dd83d624b9126509} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]
+2023-01-20 23:30:42.562 [INFO] {0804bf78140e3c17e583d6240c399bf0} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数0 []
+2023-01-20 23:30:44.440 [INFO] {10dea3e8140e3c17ea83d624e5bd1c86} /Users/ciel/learn/freekey-backend/internal/logic/system.go:2330: admin连接个数1 [42]

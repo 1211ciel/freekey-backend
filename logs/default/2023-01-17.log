@@ -1,0 +1,327 @@
+2023-01-17 18:43:12.991 [WARN] {c0141d8aa6123b171ab0f45c9bfbd616} /Users/ciel/learn/freekey-backend/utility/utils/xfile/file.go:34: path:http://localhost:2033/upload/2/2023/01/AlYe9N.png is not exists
+2023-01-17 18:43:54.989 [WARN] {c0441e2cab123b173ab0f45ca506d3c5} /Users/ciel/learn/freekey-backend/utility/utils/xfile/file.go:34: path:http://localhost:2033/upload/2/2023/01/V6PWMb.png is not exists
+2023-01-17 18:45:56.412 [WARN] {f0bdcc47c9123b17118ba87357e304d0} /Users/ciel/learn/freekey-backend/utility/utils/xfile/file.go:34: path:/resource/public/upload/2/2023/01/V6PWMb.png is not exists
+2023-01-17 18:46:54.905 [WARN] {0019521fd4123b177b8ba8736c77d3b9} /Users/ciel/learn/freekey-backend/utility/utils/xfile/file.go:34: path:/resource/public/upload/2/2023/01/kfN4VJ.png is not exists
+2023-01-17 18:47:58.148 [DEBU] {5895d0eee8123b175a2c7a7f1e53eb03} /Users/ciel/learn/freekey-backend/utility/utils/xfile/file.go:45: Remove File success path is /Users/ciel/learn/freekey-backend/resource/public/upload/2/2023/01/kfN4VJ.png
+2023-01-17 18:48:09.377 [DEBU] {40f5068ceb123b17782c7a7f7e3f80e5} /Users/ciel/learn/freekey-backend/utility/utils/xfile/file.go:45: Remove File success path is /Users/ciel/learn/freekey-backend/resource/public/upload/1/2023/01/Hm2h6U.png
+2023-01-17 18:48:16.121 [DEBU] {c896f41ded123b17942c7a7f5e1cf12c} /Users/ciel/learn/freekey-backend/utility/utils/xfile/file.go:45: Remove File success path is /Users/ciel/learn/freekey-backend/resource/public/upload/1/2023/01/FhW2ij.png
+2023-01-17 18:48:18.242 [DEBU] {f0b2819ced123b17a22c7a7f8ba00f72} /Users/ciel/learn/freekey-backend/utility/utils/xfile/file.go:45: Remove File success path is /Users/ciel/learn/freekey-backend/resource/public/upload/1/2023/01/xmp5QL.png
+2023-01-17 18:48:19.217 [DEBU] {983e96d6ed123b17b02c7a7fefaa1f89} /Users/ciel/learn/freekey-backend/utility/utils/xfile/file.go:45: Remove File success path is /Users/ciel/learn/freekey-backend/resource/public/upload/1/2023/01/6uCmb8.png
+2023-01-17 18:48:20.055 [DEBU] {90687908ee123b17ca2c7a7f2f147c69} /Users/ciel/learn/freekey-backend/utility/utils/xfile/file.go:45: Remove File success path is /Users/ciel/learn/freekey-backend/resource/public/upload/1/2023/01/gUi6JW.png
+2023-01-17 18:48:20.868 [DEBU] {18c70239ee123b17d82c7a7f7021b020} /Users/ciel/learn/freekey-backend/utility/utils/xfile/file.go:45: Remove File success path is /Users/ciel/learn/freekey-backend/resource/public/upload/1/2023/01/ci4fko.png
+2023-01-17 18:48:21.582 [DEBU] {b02a8c63ee123b17e62c7a7f77ff1abd} /Users/ciel/learn/freekey-backend/utility/utils/xfile/file.go:45: Remove File success path is /Users/ciel/learn/freekey-backend/resource/public/upload/1/2023/01/Fuul98.png
+2023-01-17 18:48:22.277 [DEBU] {c8e6ed8cee123b17f42c7a7fabfb01d6} /Users/ciel/learn/freekey-backend/utility/utils/xfile/file.go:45: Remove File success path is /Users/ciel/learn/freekey-backend/resource/public/upload/1/2023/01/SBdQOI.png
+2023-01-17 18:48:23.046 [DEBU] {088fd2baee123b17022d7a7f2a48b3e8} /Users/ciel/learn/freekey-backend/utility/utils/xfile/file.go:45: Remove File success path is /Users/ciel/learn/freekey-backend/resource/public/upload/1/2023/01/siz0as.png
+2023-01-17 18:48:25.429 [DEBU] {f0d9f248ef123b171c2d7a7f62819bb4} /Users/ciel/learn/freekey-backend/utility/utils/xfile/file.go:45: Remove File success path is /Users/ciel/learn/freekey-backend/resource/public/upload/1/2023/01/av47Mb.png
+2023-01-17 18:48:26.595 [DEBU] {e8a62e8eef123b172a2d7a7f7db9e22d} /Users/ciel/learn/freekey-backend/utility/utils/xfile/file.go:45: Remove File success path is /Users/ciel/learn/freekey-backend/resource/public/upload/1/2023/01/oyAiav.png
+2023-01-17 18:48:43.446 [DEBU] {d8c4c67af3123b17922d7a7f6a6fb12b} /Users/ciel/learn/freekey-backend/utility/utils/xfile/file.go:45: Remove File success path is /Users/ciel/learn/freekey-backend/resource/public/upload/2/2023/01/WbMbON.png
+2023-01-17 23:57:53.870 [ERRO] {5073e595d2233b17b9e72f1e293489cc} /Users/ciel/learn/freekey-backend/internal/logic/system.go:1305: Error 1452: Cannot add or update a child row: a foreign key constraint fails (`freekey_system`.`s_operation_log`, CONSTRAINT `s_operation_log_ibfk_1` FOREIGN KEY (`uid`) REFERENCES `s_admin` (`id`)), INSERT INTO `s_operation_log`(`uid`,`uri`,`ip`,`created_at`,`id`,`response`,`method`,`use_time`,`content`) VALUES(0,'/backend/menu','::1','2023-01-17 23:57:53',0,'{"code":0,"message":"","data":null}','OPTIONS',0,'') 
+Stack:
+1.  freekey-backend/internal/logic.lAdmin.MiddlewareAction
+    /Users/ciel/learn/freekey-backend/internal/logic/system.go:1305
+2.  freekey-backend/internal/service.sAdmin.MiddlewareActionLog
+    /Users/ciel/learn/freekey-backend/internal/service/system.go:344
+3.  github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1.1
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:55
+4.  github.com/gogf/gf/v2/net/ghttp.niceCallFunc
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_func.go:55
+5.  github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:54
+6.  github.com/gogf/gf/v2/util/gutil.TryCatch
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/util/gutil/gutil.go:56
+7.  github.com/gogf/gf/v2/net/ghttp.(*middleware).Next
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:49
+8.  github.com/gogf/gf/v2/net/ghttp.internalMiddlewareServerTracing
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_middleware_tracing.go:78
+9.  github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1.5
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:96
+10. github.com/gogf/gf/v2/net/ghttp.niceCallFunc
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_func.go:55
+11. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:95
+12. github.com/gogf/gf/v2/util/gutil.TryCatch
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/util/gutil/gutil.go:56
+13. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:49
+14. github.com/gogf/gf/v2/net/ghttp.(*Server).ServeHTTP
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_server_handler.go:132
+
+2023-01-17 23:57:55.429 [ERRO] {506d2ff2d2233b17bee72f1e61c1c088} /Users/ciel/learn/freekey-backend/internal/logic/system.go:1305: Error 1452: Cannot add or update a child row: a foreign key constraint fails (`freekey_system`.`s_operation_log`, CONSTRAINT `s_operation_log_ibfk_1` FOREIGN KEY (`uid`) REFERENCES `s_admin` (`id`)), INSERT INTO `s_operation_log`(`content`,`id`,`response`,`method`,`uri`,`ip`,`use_time`,`created_at`,`uid`) VALUES('',0,'{"code":0,"message":"","data":null}','OPTIONS','/backend//menu/list?page=1&size=10&undefined','::1',0,'2023-01-17 23:57:55',0) 
+Stack:
+1.  freekey-backend/internal/logic.lAdmin.MiddlewareAction
+    /Users/ciel/learn/freekey-backend/internal/logic/system.go:1305
+2.  freekey-backend/internal/service.sAdmin.MiddlewareActionLog
+    /Users/ciel/learn/freekey-backend/internal/service/system.go:344
+3.  github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1.1
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:55
+4.  github.com/gogf/gf/v2/net/ghttp.niceCallFunc
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_func.go:55
+5.  github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:54
+6.  github.com/gogf/gf/v2/util/gutil.TryCatch
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/util/gutil/gutil.go:56
+7.  github.com/gogf/gf/v2/net/ghttp.(*middleware).Next
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:49
+8.  github.com/gogf/gf/v2/net/ghttp.internalMiddlewareServerTracing
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_middleware_tracing.go:78
+9.  github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1.5
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:96
+10. github.com/gogf/gf/v2/net/ghttp.niceCallFunc
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_func.go:55
+11. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:95
+12. github.com/gogf/gf/v2/util/gutil.TryCatch
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/util/gutil/gutil.go:56
+13. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:49
+14. github.com/gogf/gf/v2/net/ghttp.(*Server).ServeHTTP
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_server_handler.go:132
+
+2023-01-17 23:57:55.439 [ERRO] {c02953f2d2233b17bfe72f1eebf8dee3} /Users/ciel/learn/freekey-backend/internal/logic/system.go:1305: Error 1452: Cannot add or update a child row: a foreign key constraint fails (`freekey_system`.`s_operation_log`, CONSTRAINT `s_operation_log_ibfk_1` FOREIGN KEY (`uid`) REFERENCES `s_admin` (`id`)), INSERT INTO `s_operation_log`(`use_time`,`uid`,`content`,`response`,`method`,`uri`,`id`,`ip`,`created_at`) VALUES(0,0,'','{"code":0,"message":"","data":null}','OPTIONS','/backend//menu/list?page=2&size=10&undefined',0,'::1','2023-01-17 23:57:55') 
+Stack:
+1.  freekey-backend/internal/logic.lAdmin.MiddlewareAction
+    /Users/ciel/learn/freekey-backend/internal/logic/system.go:1305
+2.  freekey-backend/internal/service.sAdmin.MiddlewareActionLog
+    /Users/ciel/learn/freekey-backend/internal/service/system.go:344
+3.  github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1.1
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:55
+4.  github.com/gogf/gf/v2/net/ghttp.niceCallFunc
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_func.go:55
+5.  github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:54
+6.  github.com/gogf/gf/v2/util/gutil.TryCatch
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/util/gutil/gutil.go:56
+7.  github.com/gogf/gf/v2/net/ghttp.(*middleware).Next
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:49
+8.  github.com/gogf/gf/v2/net/ghttp.internalMiddlewareServerTracing
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_middleware_tracing.go:78
+9.  github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1.5
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:96
+10. github.com/gogf/gf/v2/net/ghttp.niceCallFunc
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_func.go:55
+11. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:95
+12. github.com/gogf/gf/v2/util/gutil.TryCatch
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/util/gutil/gutil.go:56
+13. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:49
+14. github.com/gogf/gf/v2/net/ghttp.(*Server).ServeHTTP
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_server_handler.go:132
+
+2023-01-17 23:57:56.610 [ERRO] {c8794a39d3233b17c6e72f1e307dfbc7} /Users/ciel/learn/freekey-backend/internal/logic/system.go:1305: Error 1452: Cannot add or update a child row: a foreign key constraint fails (`freekey_system`.`s_operation_log`, CONSTRAINT `s_operation_log_ibfk_1` FOREIGN KEY (`uid`) REFERENCES `s_admin` (`id`)), INSERT INTO `s_operation_log`(`response`,`use_time`,`content`,`method`,`uri`,`ip`,`created_at`,`id`,`uid`) VALUES('{"code":0,"message":"","data":null}',0,'','OPTIONS','/backend//operationLog/list?page=1&size=10&undefined','::1','2023-01-17 23:57:56',0,0) 
+Stack:
+1.  freekey-backend/internal/logic.lAdmin.MiddlewareAction
+    /Users/ciel/learn/freekey-backend/internal/logic/system.go:1305
+2.  freekey-backend/internal/service.sAdmin.MiddlewareActionLog
+    /Users/ciel/learn/freekey-backend/internal/service/system.go:344
+3.  github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1.1
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:55
+4.  github.com/gogf/gf/v2/net/ghttp.niceCallFunc
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_func.go:55
+5.  github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:54
+6.  github.com/gogf/gf/v2/util/gutil.TryCatch
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/util/gutil/gutil.go:56
+7.  github.com/gogf/gf/v2/net/ghttp.(*middleware).Next
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:49
+8.  github.com/gogf/gf/v2/net/ghttp.internalMiddlewareServerTracing
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_middleware_tracing.go:78
+9.  github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1.5
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:96
+10. github.com/gogf/gf/v2/net/ghttp.niceCallFunc
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_func.go:55
+11. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:95
+12. github.com/gogf/gf/v2/util/gutil.TryCatch
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/util/gutil/gutil.go:56
+13. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:49
+14. github.com/gogf/gf/v2/net/ghttp.(*Server).ServeHTTP
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_server_handler.go:132
+
+2023-01-17 23:57:56.611 [ERRO] {28ed4939d3233b17c5e72f1e42b91d01} /Users/ciel/learn/freekey-backend/internal/logic/system.go:1305: Error 1452: Cannot add or update a child row: a foreign key constraint fails (`freekey_system`.`s_operation_log`, CONSTRAINT `s_operation_log_ibfk_1` FOREIGN KEY (`uid`) REFERENCES `s_admin` (`id`)), INSERT INTO `s_operation_log`(`uid`,`ip`,`created_at`,`use_time`,`id`,`content`,`response`,`method`,`uri`) VALUES(0,'::1','2023-01-17 23:57:56',0,0,'','{"code":0,"message":"","data":null}','OPTIONS','/backend//operationLog/list?page=2&size=10&undefined') 
+Stack:
+1.  freekey-backend/internal/logic.lAdmin.MiddlewareAction
+    /Users/ciel/learn/freekey-backend/internal/logic/system.go:1305
+2.  freekey-backend/internal/service.sAdmin.MiddlewareActionLog
+    /Users/ciel/learn/freekey-backend/internal/service/system.go:344
+3.  github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1.1
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:55
+4.  github.com/gogf/gf/v2/net/ghttp.niceCallFunc
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_func.go:55
+5.  github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:54
+6.  github.com/gogf/gf/v2/util/gutil.TryCatch
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/util/gutil/gutil.go:56
+7.  github.com/gogf/gf/v2/net/ghttp.(*middleware).Next
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:49
+8.  github.com/gogf/gf/v2/net/ghttp.internalMiddlewareServerTracing
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_middleware_tracing.go:78
+9.  github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1.5
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:96
+10. github.com/gogf/gf/v2/net/ghttp.niceCallFunc
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_func.go:55
+11. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:95
+12. github.com/gogf/gf/v2/util/gutil.TryCatch
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/util/gutil/gutil.go:56
+13. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:49
+14. github.com/gogf/gf/v2/net/ghttp.(*Server).ServeHTTP
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_server_handler.go:132
+
+2023-01-17 23:57:56.630 [ERRO] {58fdbc3ad3233b17c9e72f1ee88aec46} /Users/ciel/learn/freekey-backend/internal/logic/system.go:1305: Error 1452: Cannot add or update a child row: a foreign key constraint fails (`freekey_system`.`s_operation_log`, CONSTRAINT `s_operation_log_ibfk_1` FOREIGN KEY (`uid`) REFERENCES `s_admin` (`id`)), INSERT INTO `s_operation_log`(`id`,`uid`,`response`,`method`,`use_time`,`content`,`uri`,`ip`,`created_at`) VALUES(0,0,'{"code":0,"message":"","data":null}','OPTIONS',0,'','/backend/admin/getMenu?path=/backend/sys/operationLog','::1','2023-01-17 23:57:56') 
+Stack:
+1.  freekey-backend/internal/logic.lAdmin.MiddlewareAction
+    /Users/ciel/learn/freekey-backend/internal/logic/system.go:1305
+2.  freekey-backend/internal/service.sAdmin.MiddlewareActionLog
+    /Users/ciel/learn/freekey-backend/internal/service/system.go:344
+3.  github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1.1
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:55
+4.  github.com/gogf/gf/v2/net/ghttp.niceCallFunc
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_func.go:55
+5.  github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:54
+6.  github.com/gogf/gf/v2/util/gutil.TryCatch
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/util/gutil/gutil.go:56
+7.  github.com/gogf/gf/v2/net/ghttp.(*middleware).Next
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:49
+8.  github.com/gogf/gf/v2/net/ghttp.internalMiddlewareServerTracing
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_middleware_tracing.go:78
+9.  github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1.5
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:96
+10. github.com/gogf/gf/v2/net/ghttp.niceCallFunc
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_func.go:55
+11. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:95
+12. github.com/gogf/gf/v2/util/gutil.TryCatch
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/util/gutil/gutil.go:56
+13. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:49
+14. github.com/gogf/gf/v2/net/ghttp.(*Server).ServeHTTP
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_server_handler.go:132
+
+2023-01-17 23:58:13.235 [ERRO] {20051b18d7233b17cce72f1e750b5b4c} /Users/ciel/learn/freekey-backend/internal/logic/system.go:1305: Error 1452: Cannot add or update a child row: a foreign key constraint fails (`freekey_system`.`s_operation_log`, CONSTRAINT `s_operation_log_ibfk_1` FOREIGN KEY (`uid`) REFERENCES `s_admin` (`id`)), INSERT INTO `s_operation_log`(`content`,`uri`,`use_time`,`ip`,`created_at`,`id`,`uid`,`response`,`method`) VALUES('','/backend//operationLog/list?page=1&size=10&undefined',0,'::1','2023-01-17 23:58:13',0,0,'{"code":0,"message":"","data":null}','OPTIONS') 
+Stack:
+1.  freekey-backend/internal/logic.lAdmin.MiddlewareAction
+    /Users/ciel/learn/freekey-backend/internal/logic/system.go:1305
+2.  freekey-backend/internal/service.sAdmin.MiddlewareActionLog
+    /Users/ciel/learn/freekey-backend/internal/service/system.go:344
+3.  github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1.1
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:55
+4.  github.com/gogf/gf/v2/net/ghttp.niceCallFunc
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_func.go:55
+5.  github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:54
+6.  github.com/gogf/gf/v2/util/gutil.TryCatch
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/util/gutil/gutil.go:56
+7.  github.com/gogf/gf/v2/net/ghttp.(*middleware).Next
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:49
+8.  github.com/gogf/gf/v2/net/ghttp.internalMiddlewareServerTracing
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_middleware_tracing.go:78
+9.  github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1.5
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:96
+10. github.com/gogf/gf/v2/net/ghttp.niceCallFunc
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_func.go:55
+11. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:95
+12. github.com/gogf/gf/v2/util/gutil.TryCatch
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/util/gutil/gutil.go:56
+13. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:49
+14. github.com/gogf/gf/v2/net/ghttp.(*Server).ServeHTTP
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_server_handler.go:132
+
+2023-01-17 23:58:13.236 [ERRO] {c80c2a18d7233b17cee72f1e41c065bd} /Users/ciel/learn/freekey-backend/internal/logic/system.go:1305: Error 1452: Cannot add or update a child row: a foreign key constraint fails (`freekey_system`.`s_operation_log`, CONSTRAINT `s_operation_log_ibfk_1` FOREIGN KEY (`uid`) REFERENCES `s_admin` (`id`)), INSERT INTO `s_operation_log`(`content`,`response`,`ip`,`created_at`,`use_time`,`id`,`uid`,`method`,`uri`) VALUES('','{"code":0,"message":"","data":null}','::1','2023-01-17 23:58:13',0,0,0,'OPTIONS','/backend/admin/getInfo') 
+Stack:
+1.  freekey-backend/internal/logic.lAdmin.MiddlewareAction
+    /Users/ciel/learn/freekey-backend/internal/logic/system.go:1305
+2.  freekey-backend/internal/service.sAdmin.MiddlewareActionLog
+    /Users/ciel/learn/freekey-backend/internal/service/system.go:344
+3.  github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1.1
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:55
+4.  github.com/gogf/gf/v2/net/ghttp.niceCallFunc
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_func.go:55
+5.  github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:54
+6.  github.com/gogf/gf/v2/util/gutil.TryCatch
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/util/gutil/gutil.go:56
+7.  github.com/gogf/gf/v2/net/ghttp.(*middleware).Next
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:49
+8.  github.com/gogf/gf/v2/net/ghttp.internalMiddlewareServerTracing
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_middleware_tracing.go:78
+9.  github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1.5
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:96
+10. github.com/gogf/gf/v2/net/ghttp.niceCallFunc
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_func.go:55
+11. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:95
+12. github.com/gogf/gf/v2/util/gutil.TryCatch
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/util/gutil/gutil.go:56
+13. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:49
+14. github.com/gogf/gf/v2/net/ghttp.(*Server).ServeHTTP
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_server_handler.go:132
+
+2023-01-17 23:58:13.237 [ERRO] {38f51c18d7233b17cde72f1e089f817c} /Users/ciel/learn/freekey-backend/internal/logic/system.go:1305: Error 1452: Cannot add or update a child row: a foreign key constraint fails (`freekey_system`.`s_operation_log`, CONSTRAINT `s_operation_log_ibfk_1` FOREIGN KEY (`uid`) REFERENCES `s_admin` (`id`)), INSERT INTO `s_operation_log`(`use_time`,`id`,`response`,`method`,`uri`,`uid`,`content`,`ip`,`created_at`) VALUES(0,0,'{"code":0,"message":"","data":null}','OPTIONS','/backend//operationLog/list?page=2&size=10&undefined',0,'','::1','2023-01-17 23:58:13') 
+Stack:
+1.  freekey-backend/internal/logic.lAdmin.MiddlewareAction
+    /Users/ciel/learn/freekey-backend/internal/logic/system.go:1305
+2.  freekey-backend/internal/service.sAdmin.MiddlewareActionLog
+    /Users/ciel/learn/freekey-backend/internal/service/system.go:344
+3.  github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1.1
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:55
+4.  github.com/gogf/gf/v2/net/ghttp.niceCallFunc
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_func.go:55
+5.  github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:54
+6.  github.com/gogf/gf/v2/util/gutil.TryCatch
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/util/gutil/gutil.go:56
+7.  github.com/gogf/gf/v2/net/ghttp.(*middleware).Next
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:49
+8.  github.com/gogf/gf/v2/net/ghttp.internalMiddlewareServerTracing
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_middleware_tracing.go:78
+9.  github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1.5
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:96
+10. github.com/gogf/gf/v2/net/ghttp.niceCallFunc
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_func.go:55
+11. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:95
+12. github.com/gogf/gf/v2/util/gutil.TryCatch
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/util/gutil/gutil.go:56
+13. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:49
+14. github.com/gogf/gf/v2/net/ghttp.(*Server).ServeHTTP
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_server_handler.go:132
+
+2023-01-17 23:58:13.263 [ERRO] {d8d6ee19d7233b17d2e72f1e2d02cde0} /Users/ciel/learn/freekey-backend/internal/logic/system.go:1305: Error 1452: Cannot add or update a child row: a foreign key constraint fails (`freekey_system`.`s_operation_log`, CONSTRAINT `s_operation_log_ibfk_1` FOREIGN KEY (`uid`) REFERENCES `s_admin` (`id`)), INSERT INTO `s_operation_log`(`uid`,`response`,`method`,`id`,`content`,`uri`,`ip`,`use_time`,`created_at`) VALUES(0,'{"code":0,"message":"","data":null}','OPTIONS',0,'','/backend/admin/getMenu?path=/backend/sys/operationLog','::1',0,'2023-01-17 23:58:13') 
+Stack:
+1.  freekey-backend/internal/logic.lAdmin.MiddlewareAction
+    /Users/ciel/learn/freekey-backend/internal/logic/system.go:1305
+2.  freekey-backend/internal/service.sAdmin.MiddlewareActionLog
+    /Users/ciel/learn/freekey-backend/internal/service/system.go:344
+3.  github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1.1
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:55
+4.  github.com/gogf/gf/v2/net/ghttp.niceCallFunc
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_func.go:55
+5.  github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:54
+6.  github.com/gogf/gf/v2/util/gutil.TryCatch
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/util/gutil/gutil.go:56
+7.  github.com/gogf/gf/v2/net/ghttp.(*middleware).Next
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:49
+8.  github.com/gogf/gf/v2/net/ghttp.internalMiddlewareServerTracing
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_middleware_tracing.go:78
+9.  github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1.5
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:96
+10. github.com/gogf/gf/v2/net/ghttp.niceCallFunc
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_func.go:55
+11. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next.func1
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:95
+12. github.com/gogf/gf/v2/util/gutil.TryCatch
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/util/gutil/gutil.go:56
+13. github.com/gogf/gf/v2/net/ghttp.(*middleware).Next
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_request_middleware.go:49
+14. github.com/gogf/gf/v2/net/ghttp.(*Server).ServeHTTP
+    /Users/ciel/go/pkg/mod/github.com/gogf/gf/v2@v2.2.6/net/ghttp/ghttp_server_handler.go:132
+

@@ -1,0 +1,45 @@
+2023-01-19 16:58:34.431 [ERRO] sql: no rows in result set
+Stack:
+1.  freekey-backend/internal/logic.lApi.GetByMethodAndUrl
+    /Users/ciel/learn/freekey-backend/internal/logic/system.go:557
+2.  freekey-backend/internal/logic.lApi.AddGroup
+    /Users/ciel/learn/freekey-backend/internal/logic/system.go:525
+3.  freekey-backend/internal/logic.Test_lApi_AddGroup
+    /Users/ciel/learn/freekey-backend/internal/logic/system_test.go:36
+
+2023-01-19 16:58:34.432 [ERRO] sql: no rows in result set
+Stack:
+1.  freekey-backend/internal/logic.lApi.GetByMethodAndUrl
+    /Users/ciel/learn/freekey-backend/internal/logic/system.go:557
+2.  freekey-backend/internal/logic.lApi.AddGroup
+    /Users/ciel/learn/freekey-backend/internal/logic/system.go:525
+3.  freekey-backend/internal/logic.Test_lApi_AddGroup
+    /Users/ciel/learn/freekey-backend/internal/logic/system_test.go:36
+
+2023-01-19 16:58:34.432 [ERRO] sql: no rows in result set
+Stack:
+1.  freekey-backend/internal/logic.lApi.GetByMethodAndUrl
+    /Users/ciel/learn/freekey-backend/internal/logic/system.go:557
+2.  freekey-backend/internal/logic.lApi.AddGroup
+    /Users/ciel/learn/freekey-backend/internal/logic/system.go:525
+3.  freekey-backend/internal/logic.Test_lApi_AddGroup
+    /Users/ciel/learn/freekey-backend/internal/logic/system_test.go:36
+
+2023-01-19 16:58:34.433 [ERRO] sql: no rows in result set
+Stack:
+1.  freekey-backend/internal/logic.lApi.GetByMethodAndUrl
+    /Users/ciel/learn/freekey-backend/internal/logic/system.go:557
+2.  freekey-backend/internal/logic.lApi.AddGroup
+    /Users/ciel/learn/freekey-backend/internal/logic/system.go:525
+3.  freekey-backend/internal/logic.Test_lApi_AddGroup
+    /Users/ciel/learn/freekey-backend/internal/logic/system_test.go:36
+
+2023-01-19 16:58:34.433 [ERRO] sql: no rows in result set
+Stack:
+1.  freekey-backend/internal/logic.lApi.GetByMethodAndUrl
+    /Users/ciel/learn/freekey-backend/internal/logic/system.go:557
+2.  freekey-backend/internal/logic.lApi.AddGroup
+    /Users/ciel/learn/freekey-backend/internal/logic/system.go:525
+3.  freekey-backend/internal/logic.Test_lApi_AddGroup
+    /Users/ciel/learn/freekey-backend/internal/logic/system_test.go:36
+
